@@ -1,2 +1,3 @@
 {"name":"fluent_state_machine","vers":"0.1.0","deps":[],"cksum":"b69149a88c11f10f60563643f0ea7a367b3d777fbbbf923165bbcd714ec14052","features":{},"yanked":false}
 {"name":"fluent_state_machine","vers":"0.2.0","deps":[],"cksum":"1a2e93cc3e8472847d0b12a7eb1b4a70b2e0e2713b2dfd3c339263efd1913a79","features":{},"yanked":false}
+{"name":"fluent_state_machine","vers":"0.3.0","deps":[],"cksum":"04bc086e95a546f302b7bc084363292aa33854c76cc714adb520b924891014d7","features":{},"yanked":false}
