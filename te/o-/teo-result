@@ -1,0 +1,15 @@
+{"name":"teo-result","vers":"0.0.58-alpha.0","deps":[],"cksum":"9fb15a52035327d6c4fcfcf2cf2516ea243567eb4a9190568421d69b9b188be7","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.58-alpha.1","deps":[],"cksum":"0191f37407b79309026cb649cf865e489de1e272f4be4935c29965de378b9421","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.58-alpha.2","deps":[],"cksum":"5fdf2aa413aedcee010477497b32848535c0c16de4c87e986b8027d8c185487a","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.58-alpha.3","deps":[],"cksum":"bd6aa4ccc6bebe58a5539efced1863b43fd5043536b55ee57145a1bf1930596d","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.58","deps":[],"cksum":"b78c9ddbc1c31099a3307da4a53e221084ad2b6d8f5cf9e2ee6839221d891b4c","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.59","deps":[],"cksum":"d5b9c5ee3262a6e55cad6d8f5cd86c5882f991449faed3ba3688481d6692b65a","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.60","deps":[],"cksum":"cabf868a398de9ea219fafd3363c5ad79edf5ab12076cf1722f51cd6570799ea","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.61","deps":[],"cksum":"0822a7a8ab75ca91c025cbabe5972926337bd34f2e94f81976378e4a1e7e7d71","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.62","deps":[],"cksum":"6460c342381eed78c3bd18d51403258aef44b1ee577f4f63d217971e0848687c","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.63","deps":[],"cksum":"8fe2e20dfd285c029c7d04e78910e17a52a8bd015a993ed43829e85e7e2f2b2a","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.64","deps":[],"cksum":"ed45684151ca8fecb0012a29574deb6f19aed78ca90093a6b5bb5b11ee40857c","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.0.65","deps":[],"cksum":"e85b0a7c9cc274690304a20a7210f54b68605bd2b68efa2561f4a5251115edab","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.1.0","deps":[],"cksum":"519b6fb4c1499fb5d6350e28f53558cc92a1e10bd32a02781cfb30c85ceeaac1","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.2.0","deps":[],"cksum":"3c0570eb0d8cdba95056c13a288c1ab39fea48a93a69f1f7347df5e7a2c17a00","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.2.8","deps":[{"name":"indexmap","req":"^2.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8d61a0d23770dd302816a52c40c3193a810227e5c8bcb81a93172ceb242834f","features":{},"yanked":false}
