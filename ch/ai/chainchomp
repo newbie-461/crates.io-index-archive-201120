@@ -5,3 +5,4 @@
 {"name":"chainchomp","vers":"0.1.4","deps":[],"cksum":"3ab557cc873f8292e72dc91af354c9ab9bd7fa5390e34bea4d5c2e1969065a4e","features":{},"yanked":false}
 {"name":"chainchomp","vers":"0.1.5","deps":[],"cksum":"3d2a1245e6c4de8678a7db17ee514a9781876a53a8fb800e6424664bf8b23595","features":{},"yanked":false}
 {"name":"chainchomp","vers":"0.1.6","deps":[],"cksum":"71cef918684c0347a8869953c919beead334f50e70be5ad719f09a33c0201e28","features":{},"yanked":false}
+{"name":"chainchomp","vers":"0.2.0","deps":[],"cksum":"5d2feb00ca5ecf495e580b76d21da27412bc78c0c07ea15e22af84ffa8973366","features":{},"yanked":false}
