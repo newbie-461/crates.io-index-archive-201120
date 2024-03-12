@@ -1,1 +1,2 @@
 {"name":"llist","vers":"0.1.0","deps":[],"cksum":"736b18bed3c48ceade7634d5ce4ee532b5f1453680c0b7b822900597999d6c77","features":{},"yanked":false,"rust_version":"1.75"}
+{"name":"llist","vers":"0.1.1","deps":[],"cksum":"bc119a9e29196bdf72de3296a69e9c00ebd4382dd23ea04386ba3e38b1111db4","features":{},"yanked":false,"rust_version":"1.75"}
