@@ -5,3 +5,4 @@
 {"name":"const_irc_message_parser","vers":"0.4.0","deps":[],"cksum":"ad0571c8a01e3ffad7d794440b02c13aa9a5e2b9b24b36511a69184521fc1848","features":{},"yanked":false,"rust_version":"1.71"}
 {"name":"const_irc_message_parser","vers":"0.5.0","deps":[],"cksum":"e31f57bc2d224db1a01f3cd8fd1d83b3db89d7e256f7792fab738b57bcb1aef4","features":{},"yanked":false,"rust_version":"1.71"}
 {"name":"const_irc_message_parser","vers":"0.6.0","deps":[],"cksum":"3456007be64ab62b2f4b7b14d9dd85adfa00aeb3b5b10c785d59c1657063f8f8","features":{},"yanked":false,"rust_version":"1.71"}
+{"name":"const_irc_message_parser","vers":"0.7.0","deps":[],"cksum":"3e558780878a4d475934752fac1c4138698aed99f088291e7da8d9efb9ecbe2c","features":{},"yanked":false,"rust_version":"1.71"}
