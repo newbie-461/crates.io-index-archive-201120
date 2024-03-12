@@ -11,3 +11,4 @@
 {"name":"j1939","vers":"0.1.23","deps":[],"cksum":"ad4e0f8b2bc0540593a77e28cc50f479a5472b11ccd219ca2b93f7336aea6e8b","features":{"can":[]},"yanked":false}
 {"name":"j1939","vers":"0.1.24","deps":[],"cksum":"2831b42623c89731b3a66a3482be645d0cf4e17fd54c5da6e767b3cc53f51b7a","features":{"can":[]},"yanked":false}
 {"name":"j1939","vers":"0.1.25","deps":[],"cksum":"5f6b92d3bf6df9775d31df8148e1d2e774dc799515d0776db8bf9f7c095db277","features":{"can":[]},"yanked":false}
+{"name":"j1939","vers":"0.1.26","deps":[],"cksum":"bbd922a2718d0a363e75fde790cfffb3c9d499d4321952315cd464f3729a1231","features":{"can":[]},"yanked":false}
