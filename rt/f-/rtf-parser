@@ -9,3 +9,4 @@
 {"name":"rtf-parser","vers":"0.1.8","deps":[],"cksum":"29ca9dca500565503dbdc2b79b0218d798d04cc98ec25fa18dc17569be9067e9","features":{},"yanked":false}
 {"name":"rtf-parser","vers":"0.1.9","deps":[],"cksum":"0aa1a809ffd0f7a05e3b4d5ac3f0fb3711b773cdb72c0c27f45367eec061c5c8","features":{},"yanked":false}
 {"name":"rtf-parser","vers":"0.1.10","deps":[],"cksum":"34d19bee1ca76489d1b0b17fea13994ac5d4818ae05d505f12cde58b5d02f360","features":{},"yanked":false}
+{"name":"rtf-parser","vers":"0.2.0","deps":[],"cksum":"e0add094f6933ea633e0fd5f130a8181850999c71e39139a3c21afc70bea2f9b","features":{},"yanked":false}
