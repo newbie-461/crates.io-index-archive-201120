@@ -8,3 +8,4 @@
 {"name":"llist","vers":"0.2.4","deps":[],"cksum":"49a0b5398d309736753bfa1c00fbc0e48627538d531b85f2d979c318605d752d","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"llist","vers":"0.2.5","deps":[],"cksum":"c413e9f4d15c09f4b694e23cbe7d3ef692e0b39cf8ffe47e1c2f10f756189384","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"llist","vers":"0.3.0","deps":[{"name":"bumpalo","req":"^3.15.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"072e481e7f1e7739ba24f5b52df5538574196e50eb350f85933954041932235c","features":{},"yanked":false,"rust_version":"1.75"}
+{"name":"llist","vers":"0.3.1","deps":[{"name":"bumpalo","req":"^3.15.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a6b2d73536ce061af9b42ec3a0a3f33e58269410aeb4000d56a6e8bd79bde27","features":{},"yanked":false,"rust_version":"1.75"}
