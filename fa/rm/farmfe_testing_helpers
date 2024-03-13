@@ -1,1 +1,2 @@
 {"name":"farmfe_testing_helpers","vers":"0.0.1","deps":[{"name":"farmfe_core","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae4933c09c2fe1956ae110c1d02f8dfacaeb67b6b6d156a5d6fc37216c636140","features":{},"yanked":false}
+{"name":"farmfe_testing_helpers","vers":"0.0.2","deps":[{"name":"farmfe_core","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31f653d7e3ced99c19b037b50f0889ba867fe69e03edcd9121c8ee0b064993a2","features":{},"yanked":false}
