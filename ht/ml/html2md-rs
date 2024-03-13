@@ -10,3 +10,4 @@
 {"name":"html2md-rs","vers":"0.3.0","deps":[],"cksum":"3a3f806cfb4350256a7c8dd24d713d8d62458259f19f107249e2c49bc34310c1","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.4.0","deps":[],"cksum":"d7242408c24b87461dc5d80ad98834cb17c8b69f6345f20fbb17cc121a7d346f","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.5.0","deps":[],"cksum":"11e9aa279a80c40b9943ba8c2f23d29b8c95e2bd79b0ae16d2ed552c69d4aa81","features":{},"yanked":false}
+{"name":"html2md-rs","vers":"0.5.1","deps":[],"cksum":"32ea3056590dcaa5ef2262e77c8f7de6ca987f01b46a657abee8ee3e1a41de68","features":{},"yanked":false}
