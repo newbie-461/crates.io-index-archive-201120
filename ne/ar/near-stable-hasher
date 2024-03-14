@@ -8,3 +8,4 @@
 {"name":"near-stable-hasher","vers":"0.20.1","deps":[],"cksum":"35945fa8dbe63d1e09b0db0ab4ba01e3560c72b801e438f7afc4382775097f72","features":{},"yanked":false}
 {"name":"near-stable-hasher","vers":"0.21.0","deps":[],"cksum":"28e9a77b9470f2b77dbb35d612cfaa573a9219ada42ea1eee1721a2cc07adb27","features":{},"yanked":false}
 {"name":"near-stable-hasher","vers":"0.21.1","deps":[],"cksum":"a30eb0078c5d36ac6bb35a73f72094fc90efd34eaae239bd16ddca6dc1348161","features":{},"yanked":false}
+{"name":"near-stable-hasher","vers":"0.21.2","deps":[],"cksum":"bbc6f0350942b300c37809d6411d31d018c2bb4094ceed72d596a4fca48e29f1","features":{},"yanked":false}
