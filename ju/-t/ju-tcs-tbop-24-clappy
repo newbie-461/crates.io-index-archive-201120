@@ -1,1 +1,2 @@
 {"name":"ju-tcs-tbop-24-clappy","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c331585b91f98ad9da36416e255fd60b10ee54b5f82ca0219abca9692b644383","features":{},"yanked":false}
+{"name":"ju-tcs-tbop-24-clappy","vers":"0.1.1","deps":[],"cksum":"5c1778cea54137fc22f98af66422ee4114d6a37f09d8ae184c59f08afd30c58d","features":{},"yanked":false}
