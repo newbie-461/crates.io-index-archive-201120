@@ -34,3 +34,4 @@
 {"name":"forky_test","vers":"0.1.42","deps":[],"cksum":"33ba01e30bef21d96be7e9a785298c56d5749be57bae66e528e50632ce4cf14b","features":{},"yanked":false}
 {"name":"forky_test","vers":"0.1.43","deps":[],"cksum":"5e09deb73634012804b74691dd4efad5752a5c372a024b5667865ea39ad84bf4","features":{},"yanked":false}
 {"name":"forky_test","vers":"0.1.44","deps":[],"cksum":"65424017eb73a588af59c69c7625d89d1ae66caee5588b9aa750561380126a74","features":{},"yanked":false}
+{"name":"forky_test","vers":"0.1.45","deps":[],"cksum":"374916724d8bf9ed327a194552c68c4ad0c7a2577fea42f630f1d7779bf34e8a","features":{},"yanked":false}
