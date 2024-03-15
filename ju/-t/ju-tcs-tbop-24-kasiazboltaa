@@ -1,1 +1,2 @@
 {"name":"ju-tcs-tbop-24-kasiazboltaa","vers":"0.1.0","deps":[],"cksum":"44a3f898a61eb4b41533abaad72322ff77c07aab3e989ec44a173a24e31033b0","features":{},"yanked":false}
+{"name":"ju-tcs-tbop-24-kasiazboltaa","vers":"0.2.0","deps":[{"name":"ju-tcs-tbop-24-jjaworska","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efe3289a44ab953f7d8bcf2b7be8af7bd4a023fb87114fa28e69a76653a5af81","features":{},"yanked":false}
