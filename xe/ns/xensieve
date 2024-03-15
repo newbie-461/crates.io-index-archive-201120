@@ -3,3 +3,4 @@
 {"name":"xensieve","vers":"0.3.0","deps":[],"cksum":"d825fdcbb81c1d735253e9dc22b9c1d7d5f60894606063b00e0e7f8ebe3a7529","features":{},"yanked":false}
 {"name":"xensieve","vers":"0.4.0","deps":[],"cksum":"1c6b83230ee3464adfc5f0722793dc595108ee99eb549d2d7a862f9348919b95","features":{},"yanked":false}
 {"name":"xensieve","vers":"0.5.0","deps":[],"cksum":"1100f87d235f3cfbabd8ea75bc277a05f84281f38313cedaf2ae83ee3b5e98d9","features":{},"yanked":false}
+{"name":"xensieve","vers":"0.6.0","deps":[],"cksum":"185643078b483ff01c4209da9b98c6f47bf79752023b8b02f3f74251eb2ff842","features":{},"yanked":false}
