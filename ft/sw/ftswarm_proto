@@ -1,1 +1,2 @@
 {"name":"ftswarm_proto","vers":"0.1.0","deps":[],"cksum":"5e5345d76c5d464ea0f22b49af8a8092abcd56c3891158a66725025bd865901f","features":{},"yanked":false}
+{"name":"ftswarm_proto","vers":"0.2.0","deps":[{"name":"strum","req":"^0.26.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"strum_macros","req":"^0.26.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1f47fbaf1b842eab8c23515130883e072c70fc7a1b6cd51f845a3de244f190d","features":{},"yanked":false}
