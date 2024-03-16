@@ -3,3 +3,4 @@
 {"name":"recycle_vec","vers":"1.0.2","deps":[],"cksum":"41b663104a5e1a93d33c24a629ba6a421056b62d271f1bc65a5376c27cccca2c","features":{},"yanked":false}
 {"name":"recycle_vec","vers":"1.0.3","deps":[],"cksum":"2444222edee6617edf479d6f2b24f7842220fd3bda948f643fb5e0df2294bc1d","features":{},"yanked":false}
 {"name":"recycle_vec","vers":"1.0.4","deps":[],"cksum":"c93f1bc0ff629615c72a2d918c794b85d6f583e22de547115a502c9e9852133c","features":{},"yanked":false}
+{"name":"recycle_vec","vers":"1.1.0","deps":[{"name":"trybuild","req":"^1.0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e4b9652b312de19d8c1b40f28911083874641f216329ebe161ad2c6f8bc74224","features":{},"yanked":false}
