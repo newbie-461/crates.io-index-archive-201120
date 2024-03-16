@@ -8,3 +8,4 @@
 {"name":"tighterror","vers":"0.0.8","deps":[],"cksum":"c18d2f19debf34527b58aec27694669395a56cb1b79cb1f6fdf193356ce69772","features":{},"yanked":false}
 {"name":"tighterror","vers":"0.0.9","deps":[],"cksum":"9972ba2fcdfc2fec8a167bf0c609bd33ecbe99193cbee82f859bc4c249ef8ff8","features":{},"yanked":false}
 {"name":"tighterror","vers":"0.0.10","deps":[],"cksum":"00c37be27312bc961e7962a5482b31809e1126f4191e440e1f4fa5e7e9ba8c1e","features":{},"yanked":false}
+{"name":"tighterror","vers":"0.0.11","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2c96373adc715e3d38f776f1ad9e7eacefff643d50fc5e24e82617e3c8992f6b","features":{},"yanked":false}
