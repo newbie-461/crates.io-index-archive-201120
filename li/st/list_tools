@@ -7,3 +7,4 @@
 {"name":"list_tools","vers":"0.1.6","deps":[{"name":"debugs_tools","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"751fdfa082e68e5c393c1f952489f796f58953e608f6dd7fca63b64543dc9e08","features":{},"yanked":false}
 {"name":"list_tools","vers":"0.1.7","deps":[],"cksum":"67eb254eb434cea35ba7cdbeeab3bc2abaf7b83446d6f256acd543f482556486","features":{},"yanked":false}
 {"name":"list_tools","vers":"0.1.8","deps":[],"cksum":"ff00348cc6a2cfbad15f1f43cbb2e8a02f26e93142b56eadb3dc9aa9dc5c8310","features":{},"yanked":false}
+{"name":"list_tools","vers":"0.1.8-no-main","deps":[],"cksum":"35a1356d62dbb18dcaf87cfdcfe462db51f2fe7818036997c3c4c6b7bfe021aa","features":{},"yanked":false}
