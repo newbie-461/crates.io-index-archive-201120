@@ -4,3 +4,4 @@
 {"name":"yugen","vers":"0.1.3","deps":[],"cksum":"75102bda4d034a97414bd4f9045a42aba6abcd49be7c2e0b99bb18a76b9afb55","features":{},"yanked":false}
 {"name":"yugen","vers":"0.1.4","deps":[],"cksum":"0e24afe5a13ab2e4f2f3fd2dde12416730ef12b628776699c7279085ef9397cc","features":{},"yanked":false}
 {"name":"yugen","vers":"0.1.5","deps":[],"cksum":"8243fd1789594e5aeae08e3442e5333e526c0fe149aee2f774ea5c7bca36bd5f","features":{},"yanked":false}
+{"name":"yugen","vers":"0.1.6","deps":[],"cksum":"bf91503f99f284a849388b583e82c40e0a3b6e3a7fdcdf23863a5da200cc6d59","features":{},"yanked":false}
