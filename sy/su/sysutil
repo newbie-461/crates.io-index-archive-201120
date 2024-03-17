@@ -13,3 +13,4 @@
 {"name":"sysutil","vers":"0.3.3","deps":[],"cksum":"87dd9b3e0afb67d240954a6f8de0449561a2998b0f3f264be257eb5cce08b55b","features":{},"yanked":false}
 {"name":"sysutil","vers":"0.4.0","deps":[],"cksum":"c18f354734083478e2d7da85973f243663804407fe8c4311154914cefc41b56c","features":{},"yanked":false}
 {"name":"sysutil","vers":"0.4.1","deps":[],"cksum":"88c12160f66bca7c2ba437feb159b270d198582ca29d2eb8696ef16b8aab7f64","features":{},"yanked":false}
+{"name":"sysutil","vers":"0.4.2","deps":[],"cksum":"023ba81c9824fd46cbb6df7d4662978860d52cfced2aa9c010b79027a732f0b6","features":{},"yanked":false}
