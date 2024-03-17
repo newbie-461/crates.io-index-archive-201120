@@ -1,1 +1,2 @@
 {"name":"rohanasan","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2.153","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b356e777336b6650be39dfbd2138396674ac25fc1a1857ae9ad8c9074b4f8679","features":{},"yanked":true}
+{"name":"rohanasan","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.153","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a9d6cdadc658c07986bf2a6385d8ab2637849a002e20c0568c6659d5cf483d2","features":{},"yanked":false}
