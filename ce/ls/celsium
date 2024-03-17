@@ -1,1 +1,2 @@
 {"name":"celsium","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07885c8d2640421be35b15a7f556590e2a97598a179386bced331949cf11907d","features":{},"yanked":false}
+{"name":"celsium","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccebfa6cbbeea09368fbec2cba15e2f6f5ab745c725f0c8e23bdc1643668c3dd","features":{},"yanked":false}
