@@ -4,3 +4,4 @@
 {"name":"nbconf","vers":"0.8.0","deps":[],"cksum":"b0fa33a1a66aa18c544bb44838789387a9e4146f6d06537bf73a1cafdf85c0c0","features":{},"yanked":false}
 {"name":"nbconf","vers":"0.9.0","deps":[],"cksum":"8623b98cf542ecc0d3538a38e0073ffc70ba6c6e9d4ae32f897b01959cdf595a","features":{},"yanked":false}
 {"name":"nbconf","vers":"1.0.0","deps":[],"cksum":"76c547c88b5526c1eab1f9c944fdcddb110f4c773357f4b07abf4d48bc157219","features":{},"yanked":false}
+{"name":"nbconf","vers":"1.0.1","deps":[],"cksum":"0167bcbcc05a6fb0b6dd795e213119e7813b6e7979dd60a1023551c5c7c7f98a","features":{},"yanked":false}
