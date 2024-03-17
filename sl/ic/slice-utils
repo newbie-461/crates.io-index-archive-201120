@@ -1,1 +1,2 @@
 {"name":"slice-utils","vers":"1.0.0","deps":[],"cksum":"11e7638578a284d1ac726ba4aec20bfc48d8aa247be49444e11b35626b8ac131","features":{"default":[],"std":[]},"yanked":false}
+{"name":"slice-utils","vers":"1.0.1","deps":[],"cksum":"b9db829973c7096e762e37b02323b7118e8764794e2b07167d3f75621beaaf60","features":{"default":[],"std":[]},"yanked":false}
