@@ -2,3 +2,4 @@
 {"name":"bulletformat","vers":"0.1.1","deps":[],"cksum":"bbf4e004fa21eb4a25d1b815e73557e1070bbe26e00ed23b828e47d9036abcb9","features":{},"yanked":false}
 {"name":"bulletformat","vers":"0.2.0","deps":[],"cksum":"e0bd411b4c00d9f299367ae6342d9860db11a634145ce0dbbd8ef6d4784c7cc5","features":{},"yanked":false}
 {"name":"bulletformat","vers":"0.3.0","deps":[],"cksum":"d662c822b5f82b58eaeda01a6a3aa856ec23760144623e2289676a13f3abc6b8","features":{},"yanked":false}
+{"name":"bulletformat","vers":"1.0.0","deps":[],"cksum":"3227476a4a514e35764b14c66d04bc8b1fb8919bd93c9b3f5cd860d01ed09b23","features":{},"yanked":false}
