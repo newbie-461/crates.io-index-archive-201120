@@ -12,3 +12,4 @@
 {"name":"key-path","vers":"0.1.11","deps":[],"cksum":"35eebd4f40631d5f47aa140fdbe4e823e11459644fd2fdecca8455aa7bff0bb8","features":{},"yanked":false}
 {"name":"key-path","vers":"0.2.0","deps":[],"cksum":"5c39a3bc9eb7061196f31d83959557fde3f85a568323e8a0528a241aaa91e84e","features":{},"yanked":false}
 {"name":"key-path","vers":"0.2.1","deps":[],"cksum":"7582316073a862127471d3ed8e285f3b93693b778c0e3547c3c59901e9a7e077","features":{},"yanked":false}
+{"name":"key-path","vers":"0.2.2","deps":[],"cksum":"2dbfd6a812b085b8b82692e3188265528e4e659f92473709602af2b810af51d4","features":{},"yanked":false}
