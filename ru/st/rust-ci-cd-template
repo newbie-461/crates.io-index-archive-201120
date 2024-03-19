@@ -5,3 +5,4 @@
 {"name":"rust-ci-cd-template","vers":"0.1.4","deps":[],"cksum":"cb6d260264f358f1be89b87733da0fdb045be14837be4bddd50882579d9be727","features":{},"yanked":false,"rust_version":"1.59.0"}
 {"name":"rust-ci-cd-template","vers":"0.1.5","deps":[],"cksum":"dd6e33d8c72d4e0860d1a92d463e59df3e6f5234f852602f48295fa3fc733cfa","features":{},"yanked":false,"rust_version":"1.59.0"}
 {"name":"rust-ci-cd-template","vers":"0.1.6","deps":[],"cksum":"532b187e4b7b4c4e2dd9c4bf45fb8df646f41b2ea52986747740a3f526adb4c8","features":{},"yanked":false,"rust_version":"1.59.0"}
+{"name":"rust-ci-cd-template","vers":"0.1.7","deps":[],"cksum":"4c0adc5d305cc59e14925ba7d28089d9bc8428d524e5aebc73bf848e55ba2d07","features":{},"yanked":false,"rust_version":"1.59.0"}
