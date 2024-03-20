@@ -50,3 +50,4 @@
 {"name":"wasmtime-component-util","vers":"17.0.2","deps":[],"cksum":"0981617835bf3e8c3f29762faedd7ade0ca0e796b51e3355a3861f0a78b5688e","features":{},"yanked":false}
 {"name":"wasmtime-component-util","vers":"18.0.2","deps":[],"cksum":"1d6d69c430cddc70ec42159506962c66983ce0192ebde4eb125b7aabc49cff88","features":{},"yanked":false}
 {"name":"wasmtime-component-util","vers":"18.0.3","deps":[],"cksum":"81eae2ec98027ee0b3950da83bc320120a23087ac4d39b3d59201cb5ebf52777","features":{},"yanked":false}
+{"name":"wasmtime-component-util","vers":"19.0.0","deps":[],"cksum":"ab3ae7bf66e2fae1e332ab3634f332d7422e878a6eecc47c8f8f78cc1f24e501","features":{},"yanked":false}
