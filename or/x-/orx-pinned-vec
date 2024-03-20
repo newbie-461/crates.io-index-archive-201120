@@ -20,3 +20,4 @@
 {"name":"orx-pinned-vec","vers":"2.1.1","deps":[],"cksum":"6273f99b14a41a5c67337397f68b4baec6f6e4693593d0f965b057a4ee3fadc6","features":{},"yanked":false}
 {"name":"orx-pinned-vec","vers":"2.2.0","deps":[],"cksum":"4a88805a4cef967d2e7707f38c2b6d4a0b12e629b2c2a3628554110aa371fb3d","features":{},"yanked":false}
 {"name":"orx-pinned-vec","vers":"2.3.0","deps":[],"cksum":"5b899f089cb25cfecffa8c7164f9e8bee52df452bf158e51d758d98e52aea5ef","features":{},"yanked":false}
+{"name":"orx-pinned-vec","vers":"2.4.0","deps":[],"cksum":"409488f92e6ddd649f8d1e5180b1de4a27b9aa39f72096735587e4f803f27acf","features":{},"yanked":false}
