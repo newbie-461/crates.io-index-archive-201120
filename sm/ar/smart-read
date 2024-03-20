@@ -4,3 +4,4 @@
 {"name":"smart-read","vers":"0.2.1","deps":[],"cksum":"f842575b9d55ac9e51f55db683d72dd0710cadb739e785ae12dc68496220422a","features":{},"yanked":false}
 {"name":"smart-read","vers":"0.2.2","deps":[],"cksum":"54af9991c5e9478de4216bf2d3c2a23b2e83e8f93ccde021ac9c85a1ceebd26a","features":{},"yanked":false}
 {"name":"smart-read","vers":"0.3.0","deps":[],"cksum":"d3a563229f892a286126896e531186afd26b6ba5b1df89f6253d79d50756d38d","features":{},"yanked":false}
+{"name":"smart-read","vers":"0.3.1","deps":[],"cksum":"459dc1f8fd5dc9216ae18a2b1cc09af758f762aab8411ae0d2432b51d2c13659","features":{},"yanked":false}
