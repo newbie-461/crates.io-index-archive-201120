@@ -68,3 +68,4 @@
 {"name":"ckb-db-schema","vers":"0.114.0","deps":[],"cksum":"b52ceaddd0840b55872d5df29785f7fe75b9b21a6dbf12ad65e98f14125114f7","features":{},"yanked":false}
 {"name":"ckb-db-schema","vers":"0.115.0-pre","deps":[],"cksum":"d54e7d3bdd83497c5afba7766a519235cbb46bb0ac0bed0fc61434d9abf299f2","features":{},"yanked":false}
 {"name":"ckb-db-schema","vers":"0.115.0-rc1","deps":[],"cksum":"300c4e3744b6d79a23dbfff4c46371b689ff67ef47218bc8cffb1602871bb115","features":{},"yanked":false}
+{"name":"ckb-db-schema","vers":"0.115.0-rc2","deps":[],"cksum":"a0e8fc7d4c65a7a53b520b60d36a3d6c640a975cdde412927299ddc02badf543","features":{},"yanked":false}
