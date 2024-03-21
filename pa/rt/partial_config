@@ -1,2 +1,3 @@
 {"name":"partial_config","vers":"0.1.0","deps":[],"cksum":"4e59c21a8f78639429362218de5630f91989a9d6d0da2be7d629b5fa2ff7db32","features":{},"yanked":false}
 {"name":"partial_config","vers":"0.2.0","deps":[],"cksum":"ef50542592de398bc0368aa0da64b73c1577edd6c4500e2ec83063002fd2310c","features":{},"yanked":false}
+{"name":"partial_config","vers":"0.3.0","deps":[],"cksum":"1d58c521b9270acd8552d1b0451a08a45fa808f25d9ab63427b5ef77a58b245b","features":{},"yanked":false}
