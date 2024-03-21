@@ -2,3 +2,4 @@
 {"name":"s3-fifo","vers":"0.1.1","deps":[],"cksum":"3b85b21b2e7f44314005143dc6d7abdbf12fdfa3e7332e8187c83a6090c923ab","features":{},"yanked":false}
 {"name":"s3-fifo","vers":"0.1.2","deps":[],"cksum":"19abd64f4ae317437a0b4a5e3916447c619e36f42e64af21bb0f42f1a23d2d72","features":{},"yanked":false}
 {"name":"s3-fifo","vers":"0.1.3","deps":[],"cksum":"ca1c1d675c6288c8e62aac07a6c9b0d2f4ef5f2afd5f1babc7df04760054677b","features":{},"yanked":false}
+{"name":"s3-fifo","vers":"0.1.4","deps":[],"cksum":"1689a7d6e5609f3b90132d67e6c046a18e6d7cf2061d42d247193cb04cf158bb","features":{},"yanked":false}
