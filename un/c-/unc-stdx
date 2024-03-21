@@ -3,3 +3,4 @@
 {"name":"unc-stdx","vers":"0.5.1","deps":[],"cksum":"a8f964b8f9346fcba7d9c89186321b7e3723f44ae3abf18b1521a34c4e71d6e9","features":{},"yanked":false}
 {"name":"unc-stdx","vers":"0.5.2","deps":[],"cksum":"aa1d95430d7fd0be9cc2f2ec00fdf6fef4b806b4425b912c1026c3341db45278","features":{},"yanked":false}
 {"name":"unc-stdx","vers":"0.6.0","deps":[],"cksum":"7f9a5efd7ec3ca186cc86870caa789011231cf53c61495653d1817bdb3f11960","features":{},"yanked":false}
+{"name":"unc-stdx","vers":"0.6.1","deps":[],"cksum":"9ca9bdcd0688efc9e8dfa0aa7acef86f86e97a365eb386c00e9db6d5361010cf","features":{},"yanked":false}
