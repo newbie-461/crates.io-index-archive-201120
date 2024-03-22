@@ -3,3 +3,4 @@
 {"name":"xor_cryptor","vers":"1.0.2","deps":[],"cksum":"5e2df561d3eb1a5fd2e4fa0e903d524da27316ed3b7bc8e085b9b8572e40c8e4","features":{},"yanked":false}
 {"name":"xor_cryptor","vers":"1.1.0","deps":[],"cksum":"b0fbc24677c92797c0cfdca47a04668c019100cc222478b74c384f0557325efc","features":{},"yanked":false}
 {"name":"xor_cryptor","vers":"1.2.0","deps":[{"name":"rayon","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87db8ca799212e58d3c6dd0e66b2b39b492f67402823b2ddfa6de91e781b1515","features":{},"yanked":false}
+{"name":"xor_cryptor","vers":"1.2.1","deps":[{"name":"rayon","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3f9980e4c18fc0e239b95d2c6b2eae3d9efd74d9fb680614b8a7b355aa08beb","features":{},"yanked":false}
