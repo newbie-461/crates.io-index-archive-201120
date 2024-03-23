@@ -15,5 +15,5 @@
 {"name":"simple-string-patterns","vers":"0.3.0","deps":[],"cksum":"b62583ac9742fee09e0aaade775b2bc03c91f5ed0a72b1a49959c711f867dfee","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.3.1","deps":[],"cksum":"610af7e76acfe12e16ead44e7013aee4765f3aaacc59d8905f73c0a9719d8e32","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.3.2","deps":[],"cksum":"1ab4454c2d9141c76f62c6349302be9d3c4a263aacc7076133026c53f0d2a623","features":{},"yanked":true}
-{"name":"simple-string-patterns","vers":"0.3.3","deps":[],"cksum":"bcc11304bd9ef9c5235190c5e735e3decb7c93c538e0f65e871dd595e3906565","features":{},"yanked":false}
+{"name":"simple-string-patterns","vers":"0.3.3","deps":[],"cksum":"bcc11304bd9ef9c5235190c5e735e3decb7c93c538e0f65e871dd595e3906565","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.3.4","deps":[],"cksum":"99b0de41137df0c1302bcd4af98db775395b8b5d57138c8a3d5d87ca406d0a78","features":{},"yanked":false}
