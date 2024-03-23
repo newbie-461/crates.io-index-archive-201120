@@ -13,3 +13,4 @@
 {"name":"mpv-client","vers":"0.5.0","deps":[],"cksum":"b7de544ea512ec5a8bf85105e0c051aaef56a1a81cd71f085933714192f17e84","features":{},"yanked":false}
 {"name":"mpv-client","vers":"0.6.0","deps":[],"cksum":"89f50611277706a6e6519b3c3cc2cee660315327fca87abc2f3c369a95e6bb8a","features":{},"yanked":false}
 {"name":"mpv-client","vers":"0.6.1","deps":[],"cksum":"49e08e16165208db0e40e0654d2399e44492a23532227053e632c1f50927ac99","features":{},"yanked":false}
+{"name":"mpv-client","vers":"0.6.2","deps":[],"cksum":"cc20002398cdc6bbc59d9e364513665ecdaa6f9a960578f8b26dcfbfcf1f7fef","features":{},"yanked":false}
