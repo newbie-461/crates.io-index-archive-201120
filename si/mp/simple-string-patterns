@@ -14,3 +14,4 @@
 {"name":"simple-string-patterns","vers":"0.2.5","deps":[],"cksum":"9f3341678b77bca86818448e2eb9cd0b9fb3dcb54f42867232dcfb8e188a819f","features":{},"yanked":false}
 {"name":"simple-string-patterns","vers":"0.3.0","deps":[],"cksum":"b62583ac9742fee09e0aaade775b2bc03c91f5ed0a72b1a49959c711f867dfee","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.3.1","deps":[],"cksum":"610af7e76acfe12e16ead44e7013aee4765f3aaacc59d8905f73c0a9719d8e32","features":{},"yanked":false}
+{"name":"simple-string-patterns","vers":"0.3.2","deps":[],"cksum":"1ab4454c2d9141c76f62c6349302be9d3c4a263aacc7076133026c53f0d2a623","features":{},"yanked":false}
