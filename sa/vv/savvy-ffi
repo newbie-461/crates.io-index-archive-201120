@@ -19,3 +19,4 @@
 {"name":"savvy-ffi","vers":"0.2.17","deps":[],"cksum":"a61cacd79d8d21d5fca0d8b7d788c145e263eeb560a85016a52f4ec156905fb1","features":{},"yanked":false}
 {"name":"savvy-ffi","vers":"0.2.18","deps":[],"cksum":"5ca996c3d408c56f8009fb8da66c99814b2a6c3a61c07f59259113c5b5a7f33e","features":{},"yanked":false}
 {"name":"savvy-ffi","vers":"0.2.20","deps":[],"cksum":"b3ccc9e67ea4bdd61284043d40adb2614848a78cc3af23855b4bb83c6e80046b","features":{},"yanked":false}
+{"name":"savvy-ffi","vers":"0.3.0","deps":[],"cksum":"06999ef71b146cfafec88113f4b70a3ffca27c82a05ef4b9ed763e45118f69a9","features":{},"yanked":false}
