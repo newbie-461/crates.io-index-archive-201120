@@ -22,3 +22,4 @@
 {"name":"byte_reader","vers":"1.2.1","deps":[],"cksum":"adbc2787dda44633eda6d1cc811b2cd3ef0577e603354c9de1eb4d2dbb5ed416","features":{"location":[],"text":[]},"yanked":false}
 {"name":"byte_reader","vers":"1.2.2","deps":[],"cksum":"5c48c363b2b724f9d89854469559e36fb4a97b9e271332092fa5dc1f9e093b72","features":{"location":[],"text":[]},"yanked":false}
 {"name":"byte_reader","vers":"2.0.0","deps":[],"cksum":"087a18fc062e9ae6d8c0fc7d9afc22e373f3eda1244379eefabff7e2b2cad206","features":{"location":[],"text":[]},"yanked":false}
+{"name":"byte_reader","vers":"2.1.0","deps":[],"cksum":"bb2d51c51102e3d452dc856d5fda891eb3c98271ae7a54b829c4f303f199c40a","features":{"detached":[],"location":[],"text":[]},"yanked":false}
