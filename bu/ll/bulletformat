@@ -4,3 +4,4 @@
 {"name":"bulletformat","vers":"0.3.0","deps":[],"cksum":"d662c822b5f82b58eaeda01a6a3aa856ec23760144623e2289676a13f3abc6b8","features":{},"yanked":false}
 {"name":"bulletformat","vers":"1.0.0","deps":[],"cksum":"3227476a4a514e35764b14c66d04bc8b1fb8919bd93c9b3f5cd860d01ed09b23","features":{},"yanked":false}
 {"name":"bulletformat","vers":"1.1.0","deps":[],"cksum":"64aefe2e39e558afb98bf8b6a339e286678d38ee8919b6e07ef1c7e558a3bd44","features":{},"yanked":false}
+{"name":"bulletformat","vers":"1.2.0","deps":[],"cksum":"c70f9e3731c210cfdb2133c987417d8ee5a9a41128bbd1514250ad272ee120f9","features":{},"yanked":false}
