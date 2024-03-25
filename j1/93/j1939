@@ -15,3 +15,4 @@
 {"name":"j1939","vers":"0.1.27","deps":[],"cksum":"8e3ee0d1664d21623a4da7f8f165b9b6623dc93d78b6364dfb725cbcc6781046","features":{"can":[]},"yanked":false}
 {"name":"j1939","vers":"0.1.28","deps":[],"cksum":"18f1ce4a249267d7ad1ebe3214773342731f2f29f9e904892ef026a598860ae0","features":{"can":[]},"yanked":false}
 {"name":"j1939","vers":"0.1.29","deps":[],"cksum":"012e071cfc430effcf7ebd3554d1f1249874d459ca7c49931c5a8ca4b3845760","features":{},"yanked":false}
+{"name":"j1939","vers":"0.1.30","deps":[],"cksum":"36fe98711308ddc23cce99ef0b2f1a7164c38a1d5c5112c019ca1e266eeec4a4","features":{},"yanked":false}
