@@ -1,1 +1,2 @@
 {"name":"libpng-src","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a2b6185e65cf1d02b713d6cdb771bbdfa8f31ff30ce37b7a45952db7bc96a628","features":{},"yanked":false}
+{"name":"libpng-src","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"69f608eeb8edbf4dda2e62dc7aacca07448dd39ce5ed16d6f49daccd3880f5c3","features":{},"yanked":false}
