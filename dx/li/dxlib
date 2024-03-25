@@ -2,6 +2,6 @@
 {"name":"dxlib","vers":"0.0.2","deps":[],"cksum":"a979a0c0c6d64c2ee3827850d6d763d3bcf2b2599ca6033be7cc39756efd97fc","features":{},"yanked":false}
 {"name":"dxlib","vers":"0.0.3","deps":[],"cksum":"cfd9d736f4474811e0c9ad58a0475db0e8e5b11fd25cb575bb8695829f9fe40d","features":{},"yanked":false}
 {"name":"dxlib","vers":"0.0.4","deps":[],"cksum":"2c32543697bd48c671f7f7563647c3bd50939058fe241abb9700288f63cb1509","features":{},"yanked":false}
-{"name":"dxlib","vers":"0.0.5","deps":[],"cksum":"2fca0abc6d5c5a88671a21b094d5161ab9d8ac9070dba0999f7b4e34c1bb2eb3","features":{},"yanked":false}
+{"name":"dxlib","vers":"0.0.5","deps":[],"cksum":"2fca0abc6d5c5a88671a21b094d5161ab9d8ac9070dba0999f7b4e34c1bb2eb3","features":{},"yanked":true}
 {"name":"dxlib","vers":"0.0.6","deps":[],"cksum":"0fda6ff7a2634811306f47f979084715b2057a30ae110cf5e7b783f9e5a41e92","features":{},"yanked":true}
 {"name":"dxlib","vers":"0.0.7","deps":[],"cksum":"281463d2e31f0fe545c13d4da435fac7c7f6f5172e221d28f74c900067c4faec","features":{},"yanked":false}
