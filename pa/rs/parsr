@@ -8,3 +8,4 @@
 {"name":"parsr","vers":"0.2.2","deps":[],"cksum":"d7ba36bc7e42e39b08f69d0f570e96a48250507ef1b6d0189781888f30f0fce3","features":{},"yanked":false}
 {"name":"parsr","vers":"0.2.3","deps":[],"cksum":"d12bd520727ceafbbc0176bc78a675b723983f105130f32fbb31c17abbeb81f9","features":{},"yanked":false}
 {"name":"parsr","vers":"0.2.4","deps":[],"cksum":"b476f0effb9afbd3a007021bcbbe162c7bbbd497b2306bf4f3eb33c13b92de39","features":{},"yanked":false}
+{"name":"parsr","vers":"0.2.5","deps":[],"cksum":"0a0e1ec2a67a569fb789e2a3f534129306cb33a6f60356f1f7fee7bd492fcfc0","features":{},"yanked":false}
