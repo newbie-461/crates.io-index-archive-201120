@@ -4,5 +4,5 @@
 {"name":"strmath","vers":"0.2.1","deps":[],"cksum":"0d2540029b4ef12a35893309dda51be2a25d816499651ffafcfa4e93104e771e","features":{},"yanked":false}
 {"name":"strmath","vers":"0.3.0","deps":[],"cksum":"c7cbb3368abced531dfbee78a142bb29bf51583d07f96023c347becc01a7d28a","features":{},"yanked":true}
 {"name":"strmath","vers":"0.3.1","deps":[],"cksum":"1b9d87785e120a55c7c60dbbfa54d84278c7b39facf35333beb3e440255bb14b","features":{},"yanked":false}
-{"name":"strmath","vers":"0.4.0","deps":[],"cksum":"1255bf35a429e7bdf31ab923002bd100f73805b91806a1e6b815a99a75881fcb","features":{"add":[],"div":[],"full":["add","sub","mul","div","rem"],"mul":[],"rem":[],"sub":[]},"yanked":false}
+{"name":"strmath","vers":"0.4.0","deps":[],"cksum":"1255bf35a429e7bdf31ab923002bd100f73805b91806a1e6b815a99a75881fcb","features":{"add":[],"div":[],"full":["add","sub","mul","div","rem"],"mul":[],"rem":[],"sub":[]},"yanked":true}
 {"name":"strmath","vers":"0.4.1","deps":[],"cksum":"0abcbadbb0d767dc40d3013e1aadc1e26868179a00773d8617dcf192604a9174","features":{"add":[],"display":[],"div":[],"full":["math","display"],"math":["add","sub","mul","div","rem"],"mul":[],"rem":[],"sub":[]},"yanked":false}
