@@ -1,4 +1,4 @@
-{"name":"strmath","vers":"0.1.0","deps":[],"cksum":"d31a6a881529b6924e198110e84c0c7ab83484b169faf5d3c384563f6693ceec","features":{},"yanked":false}
+{"name":"strmath","vers":"0.1.0","deps":[],"cksum":"d31a6a881529b6924e198110e84c0c7ab83484b169faf5d3c384563f6693ceec","features":{},"yanked":true}
 {"name":"strmath","vers":"0.1.1","deps":[],"cksum":"75143b0ea725fa7a0e13c46576803fa67ecec2e708c293056af30980b053057f","features":{},"yanked":false}
 {"name":"strmath","vers":"0.1.2","deps":[],"cksum":"909f52493572a125d9e3ef40b4528db29528d2faadb54feab05fef6232848f8c","features":{},"yanked":false}
 {"name":"strmath","vers":"0.2.1","deps":[],"cksum":"0d2540029b4ef12a35893309dda51be2a25d816499651ffafcfa4e93104e771e","features":{},"yanked":false}
