@@ -6,3 +6,4 @@
 {"name":"parsr","vers":"0.2.0","deps":[],"cksum":"714475af7602e94799bee08298072a3f4d9dab4d23c8ee134fbdd513fe765f73","features":{},"yanked":false}
 {"name":"parsr","vers":"0.2.1","deps":[],"cksum":"9cc4ecb9a7e4d54bd7891cf829ceed2443c9a38e8f27a82f629e520e75f2ad1d","features":{},"yanked":false}
 {"name":"parsr","vers":"0.2.2","deps":[],"cksum":"d7ba36bc7e42e39b08f69d0f570e96a48250507ef1b6d0189781888f30f0fce3","features":{},"yanked":false}
+{"name":"parsr","vers":"0.2.3","deps":[],"cksum":"d12bd520727ceafbbc0176bc78a675b723983f105130f32fbb31c17abbeb81f9","features":{},"yanked":false}
