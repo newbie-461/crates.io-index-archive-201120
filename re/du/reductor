@@ -10,3 +10,4 @@
 {"name":"reductor","vers":"0.0.9","deps":[],"cksum":"19bd2d3a4179204ee5aa2f52ebe58fadfb10d38bddab3abc34ab14187e234afc","features":{},"yanked":false}
 {"name":"reductor","vers":"0.0.10","deps":[],"cksum":"09d8b2f2e07c8a39796812ebd24c7e1f93db8155950fc07de28dea8cd8d57655","features":{},"yanked":false}
 {"name":"reductor","vers":"0.0.11","deps":[],"cksum":"6ddbe0bfb6403aef0ccf25d70b33dfb5d614ffe9679ad1a3519107bef3c5549d","features":{},"yanked":false}
+{"name":"reductor","vers":"0.0.12","deps":[],"cksum":"dc54d1a63fccd85558c8a0d2570c3bb4c9ecfd1f6499539f71dafb5d2af41086","features":{},"yanked":false}
