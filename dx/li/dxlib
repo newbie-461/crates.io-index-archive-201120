@@ -7,3 +7,4 @@
 {"name":"dxlib","vers":"0.0.7","deps":[],"cksum":"281463d2e31f0fe545c13d4da435fac7c7f6f5172e221d28f74c900067c4faec","features":{},"yanked":true}
 {"name":"dxlib","vers":"0.0.8","deps":[],"cksum":"d9b82f2cbfc14fd50bbd1f7df884b15087200b454ea90824ba323be184de8236","features":{},"yanked":true}
 {"name":"dxlib","vers":"0.0.9","deps":[],"cksum":"29cdcb65b781782d6e732b7e7c4d081e0e7e813c919fec454abbb290a94168b0","features":{},"yanked":false}
+{"name":"dxlib","vers":"0.0.10","deps":[],"cksum":"8034f927e817134ee01213d785d55fcc8c5afeebc46c03d29789d3cb43b6d011","features":{},"yanked":false}
