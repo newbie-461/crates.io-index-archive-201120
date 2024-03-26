@@ -18,3 +18,4 @@
 {"name":"vcheat","vers":"0.6.0","deps":[],"cksum":"b140f3d98026e3635bd821cc15118dc6199c6c6cddb0ee31be627fd2075af6e3","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.6.1","deps":[],"cksum":"54448c799797291a6709ac1e8a621ac637a6017c3fa1421e6002b8d50950917d","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.6.2","deps":[],"cksum":"18bf37b060b6b82ff55fb6c0482ce6cebf526a22b3888b8ce77305f6acfab88d","features":{},"yanked":false}
+{"name":"vcheat","vers":"0.6.3","deps":[],"cksum":"296284283f23739f2b0a00ce53e2d8236956695f3b8a1c8cde48137f7a4c888a","features":{},"yanked":false}
