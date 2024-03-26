@@ -1,1 +1,2 @@
 {"name":"Aymr","vers":"0.0.0","deps":[],"cksum":"d302b96a0c5dbe885b91f82c4bf8b9e11f43509d4829abcfd76834c2626c42d0","features":{},"yanked":false}
+{"name":"Aymr","vers":"0.0.1","deps":[{"name":"zerocopy","req":"^0.7.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30d993b25d2dd5984160d2d8b46ee5b620e2f6ea0b788e56950a6d834319a5ec","features":{"btreemap":[],"default":["btreemap"],"hashmap":[]},"yanked":false}
