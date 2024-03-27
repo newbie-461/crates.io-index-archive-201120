@@ -2,3 +2,4 @@
 {"name":"rrtk","vers":"0.1.1","deps":[],"cksum":"a64752a0686259004eb8944bc0121bf423d12e913a737f8f255dee8170b568d7","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.2.0-alpha.1","deps":[],"cksum":"d94609e276e6bcbc55cc93705f0c02e8139ce68fee8480160f9ce06912ff2450","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.2.0-alpha.2","deps":[],"cksum":"b6372d5bec4980eb25f4c6b1fb26178093fd3191762d5d9bc505c386373f8ee1","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.2.0-beta.1","deps":[],"cksum":"a6b5c3863551d6bd0e9297db65c06e78c1d1cd167c00da216f754195bc79e235","features":{"default":["std"],"std":[]},"yanked":false}
