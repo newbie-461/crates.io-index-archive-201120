@@ -8,3 +8,4 @@
 {"name":"caesar_cipher_enc_dec","vers":"0.5.2","deps":[],"cksum":"165f44df743bf540ecc2c5ace4f1ee8a4355061efda4b1b6d14940662d3cb437","features":{},"yanked":false}
 {"name":"caesar_cipher_enc_dec","vers":"0.5.3","deps":[],"cksum":"a76919177d9bb1031cb365fe2043ec516634d187aa2dcb92b6bdc4326e2d8455","features":{},"yanked":false}
 {"name":"caesar_cipher_enc_dec","vers":"0.6.0","deps":[],"cksum":"af98c5da1c82d90221ff6efc4257b7bb9be393ebf0a4b9d362894f5e097e7f23","features":{},"yanked":false}
+{"name":"caesar_cipher_enc_dec","vers":"0.6.1","deps":[],"cksum":"c77620a586b810091e6a759a5a15d8c6bb3f1a14fbf0ec92d0fa96d10f84e39f","features":{},"yanked":false}
