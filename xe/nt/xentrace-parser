@@ -40,3 +40,4 @@
 {"name":"xentrace-parser","vers":"2.0.0","deps":[],"cksum":"b3dae66f6243961528616a617881a3808712b17e1411be087aa23d762a541a8b","features":{},"yanked":true,"rust_version":"1.65"}
 {"name":"xentrace-parser","vers":"2.0.1","deps":[],"cksum":"834d0b9c75e3cd497fed310a1e1e855b851e53068e3bbb1b77d72c2c6e479b31","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"xentrace-parser","vers":"2.0.2","deps":[{"name":"fxhash","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d45e19e3fb04c791fd7ac0f48b126c268c37367084ababa83e2c72af0e13a65","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"xentrace-parser","vers":"2.1.0","deps":[{"name":"fxhash","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c9bc69fa1e3cf7345074aa5a09ed37539d13828a543398f69a40da2941f5ef5","features":{},"yanked":false,"rust_version":"1.65"}
