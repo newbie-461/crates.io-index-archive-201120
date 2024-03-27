@@ -22,10 +22,10 @@
 {"name":"xentrace-parser","vers":"0.6.1","deps":[],"cksum":"96e59f1c60ad59c26b7e5920106c6fb2a62f599819c59044818ca64d427887f0","features":{},"yanked":false}
 {"name":"xentrace-parser","vers":"0.7.0","deps":[],"cksum":"273ad42827fa7ae5e1587fe8d3322c5f2f75e911303fa8d059317114438712ac","features":{},"yanked":false}
 {"name":"xentrace-parser","vers":"0.7.1","deps":[],"cksum":"b41ab50f2ecaaa97930a75fcd3162c075bb72214118c6a4f743f4b4bfd820586","features":{},"yanked":false}
-{"name":"xentrace-parser","vers":"0.7.2","deps":[],"cksum":"9ce74362e3440702e2e065ce1df814a13a034719fba5947a0c87fcc7a80ef650","features":{},"yanked":false}
-{"name":"xentrace-parser","vers":"0.7.3","deps":[],"cksum":"8b6c860a1e511cb851635b9c9a3579ab1673b18be6357fb085a0a60ef66a1873","features":{},"yanked":false}
-{"name":"xentrace-parser","vers":"0.7.4","deps":[],"cksum":"6b240edff59672c33e8f46e3552eb3c7e7bb7a9aa1c59f94f496a57aabfe917f","features":{},"yanked":false}
-{"name":"xentrace-parser","vers":"0.8.0","deps":[],"cksum":"854efdcda8112102961a69038b467940df044b4c65aedc377dee940ec263bb81","features":{},"yanked":false}
+{"name":"xentrace-parser","vers":"0.7.2","deps":[],"cksum":"9ce74362e3440702e2e065ce1df814a13a034719fba5947a0c87fcc7a80ef650","features":{},"yanked":true}
+{"name":"xentrace-parser","vers":"0.7.3","deps":[],"cksum":"8b6c860a1e511cb851635b9c9a3579ab1673b18be6357fb085a0a60ef66a1873","features":{},"yanked":true}
+{"name":"xentrace-parser","vers":"0.7.4","deps":[],"cksum":"6b240edff59672c33e8f46e3552eb3c7e7bb7a9aa1c59f94f496a57aabfe917f","features":{},"yanked":true}
+{"name":"xentrace-parser","vers":"0.8.0","deps":[],"cksum":"854efdcda8112102961a69038b467940df044b4c65aedc377dee940ec263bb81","features":{},"yanked":true}
 {"name":"xentrace-parser","vers":"0.8.1","deps":[],"cksum":"7e3a501d9dcdc1debcee26772b393ff10cd8b62c42789e9f0cb1f86226b05b16","features":{},"yanked":true}
 {"name":"xentrace-parser","vers":"0.9.0","deps":[],"cksum":"491f7d58a181489d0abbd765318c4098d017e96a87a55db60a7041cd9d7b6e97","features":{},"yanked":true}
 {"name":"xentrace-parser","vers":"0.9.1","deps":[],"cksum":"0f2dfdd75d1101638bc3b1fda2f59f31a2e69c77266988c8d12ff7e9446c75cb","features":{},"yanked":true}
