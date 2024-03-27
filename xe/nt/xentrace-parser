@@ -38,3 +38,4 @@
 {"name":"xentrace-parser","vers":"1.1.0","deps":[],"cksum":"23403c11ae7162320f436610263a0339ed6393e915eb3c310b7a518ed7dc8b65","features":{},"yanked":true,"rust_version":"1.56.1"}
 {"name":"xentrace-parser","vers":"1.2.0","deps":[],"cksum":"5ab2b36d96302b95cbb9d2d8bd3b0320c68e4445d40d7ff2e2f84501f8c5f5b4","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"xentrace-parser","vers":"2.0.0","deps":[],"cksum":"b3dae66f6243961528616a617881a3808712b17e1411be087aa23d762a541a8b","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"xentrace-parser","vers":"2.0.1","deps":[],"cksum":"834d0b9c75e3cd497fed310a1e1e855b851e53068e3bbb1b77d72c2c6e479b31","features":{},"yanked":false,"rust_version":"1.65"}
