@@ -6,3 +6,4 @@
 {"name":"xrpl_address_codec","vers":"0.14.0","deps":[],"cksum":"c39aaa74d6298c347517abf90a76476893956826ce9f7cf3d0c24027d106e9bb","features":{},"yanked":false}
 {"name":"xrpl_address_codec","vers":"0.15.0","deps":[],"cksum":"0b0a27a5a7cf22a3c6e4ac9ad0225740f10a7f0f04e2ca07673a514b7375a157","features":{},"yanked":false}
 {"name":"xrpl_address_codec","vers":"0.16.0","deps":[],"cksum":"c850818b95cdffa037c9b97ed88f65fb22b6a0502d0d502675a3600ff540c7af","features":{},"yanked":false}
+{"name":"xrpl_address_codec","vers":"0.16.1","deps":[],"cksum":"8fb3c9117028ce2cfe3a10dd7b0873f04ae4e44b02b71537e889f81055465ce5","features":{},"yanked":false}
