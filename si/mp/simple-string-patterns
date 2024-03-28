@@ -18,3 +18,4 @@
 {"name":"simple-string-patterns","vers":"0.3.3","deps":[],"cksum":"bcc11304bd9ef9c5235190c5e735e3decb7c93c538e0f65e871dd595e3906565","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.3.4","deps":[],"cksum":"99b0de41137df0c1302bcd4af98db775395b8b5d57138c8a3d5d87ca406d0a78","features":{},"yanked":false}
 {"name":"simple-string-patterns","vers":"0.3.5","deps":[],"cksum":"6b9bf96fb9e158e2c300c0a30b838514c7389c6d3152b61d2db8b383d556f1e8","features":{},"yanked":false}
+{"name":"simple-string-patterns","vers":"0.3.6","deps":[],"cksum":"c522126eb56e154f431701cef2278c98d6c4dd8ba18a1eeb121ae19734cfccbf","features":{},"yanked":false}
