@@ -1,3 +1,4 @@
 {"name":"finnhub-rust","vers":"0.1.0","deps":[],"cksum":"0f07170cc85b88af35c888a9fb46bd42dddbb4bc49018ce9ca99d2480c907a32","features":{},"yanked":false}
 {"name":"finnhub-rust","vers":"0.1.1","deps":[],"cksum":"f60c7cd2246d7a819d3d2ff17a37a1713a98d7cb2195865c131ce6e71657eeb3","features":{},"yanked":false}
 {"name":"finnhub-rust","vers":"0.1.2","deps":[],"cksum":"7f3b2917f671f44b8e53dc4e957ce198c10cc26256a2e1674ba41ac785adc715","features":{},"yanked":false}
+{"name":"finnhub-rust","vers":"0.1.3","deps":[],"cksum":"43b65aa37573a0d8fb77a15b8089e20abb1ec7e8d77674f491f86329cbba2953","features":{},"yanked":false}
