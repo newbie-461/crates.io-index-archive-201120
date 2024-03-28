@@ -6,3 +6,4 @@
 {"name":"mudra","vers":"0.1.5","deps":[],"cksum":"97809bdec6a96427fccb0ac950675b4d0485863d6fd58113fb2b46f54418c8bf","features":{},"yanked":false}
 {"name":"mudra","vers":"0.1.6","deps":[],"cksum":"3adc9c39f67b57d715f8d65aa296a8b0daa21da74c05e53b67595f926a7cf5f2","features":{},"yanked":false}
 {"name":"mudra","vers":"0.1.7","deps":[],"cksum":"a12da22108e497a138566c5a8f61dcd33a20a93b87f1cf81931fcb474d5a0eb8","features":{},"yanked":false}
+{"name":"mudra","vers":"0.1.8","deps":[],"cksum":"6e403f8e0abb89aab13f92b105ed698c773b8c55716befee7fe8ca3844e45262","features":{},"yanked":false}
