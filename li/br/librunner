@@ -6,3 +6,4 @@
 {"name":"librunner","vers":"0.4.0","deps":[],"cksum":"ee63c7439bafc0df7c7c02bba0392202098a44e5546dbe3c7dda87bbc9ae5d55","features":{},"yanked":false}
 {"name":"librunner","vers":"0.5.0","deps":[],"cksum":"5cee1d101ed4521d1da6cb135156ce88ba211eb2609ac30963f7750ff23149be","features":{},"yanked":false}
 {"name":"librunner","vers":"0.6.0","deps":[],"cksum":"7befc4ca9919b4f1fba684b08262f2cefc41ed33099ca407ece2fffcebd0d5d4","features":{},"yanked":false}
+{"name":"librunner","vers":"0.7.0","deps":[],"cksum":"91ab2404c52d64b38e111cc12dbf24d4ce245ddd70aaa84c6e72c15a88546a52","features":{},"yanked":false}
