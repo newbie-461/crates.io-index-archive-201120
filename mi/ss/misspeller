@@ -1,8 +1,8 @@
 {"name":"misspeller","vers":"0.0.1","deps":[],"cksum":"f8ecf40e32084580b8295ea3cb7f0bb010dfda4077233fde2b49be470f8ad79e","features":{},"yanked":false}
 {"name":"misspeller","vers":"0.0.2","deps":[],"cksum":"4c0754ee11fb84de43b7d1d457025a5971b321d67cf1d6de78823d4bf9e15ffe","features":{},"yanked":false}
 {"name":"misspeller","vers":"0.0.3","deps":[],"cksum":"36375558890ebd0c4337daa50a3a4045a215ba473132e32fdf077a4e52c2b2b2","features":{},"yanked":false}
-{"name":"misspeller","vers":"0.0.4","deps":[],"cksum":"04e7c32a7235d3207310a4332088845fb92b7ac4384a66063760841684b926c7","features":{},"yanked":false}
-{"name":"misspeller","vers":"0.0.5","deps":[],"cksum":"1f72cae05a76d8448b548b6bcbc88c91b0b55a3a67d6e9f5efcc1cfee48bb5fa","features":{},"yanked":false}
+{"name":"misspeller","vers":"0.0.4","deps":[],"cksum":"04e7c32a7235d3207310a4332088845fb92b7ac4384a66063760841684b926c7","features":{},"yanked":true}
+{"name":"misspeller","vers":"0.0.5","deps":[],"cksum":"1f72cae05a76d8448b548b6bcbc88c91b0b55a3a67d6e9f5efcc1cfee48bb5fa","features":{},"yanked":true}
 {"name":"misspeller","vers":"0.0.6","deps":[],"cksum":"8b44e2221dd1ffefe5ce5af33f0d4cad2d6920bb226aeaca528dc08adbf53729","features":{},"yanked":true}
 {"name":"misspeller","vers":"0.0.7","deps":[],"cksum":"76b35e2af3232531e457e7c060155be89b1c7e150e3d7fb6b973d96eb6e3e443","features":{},"yanked":true}
 {"name":"misspeller","vers":"0.0.8","deps":[],"cksum":"96e28d12c5af0e933d6e384bb8e76dc18bf434e1a266989ae68717697656fed3","features":{},"yanked":true}
