@@ -7,3 +7,4 @@
 {"name":"mut_set","vers":"0.2.3","deps":[],"cksum":"e2e74bfb156714d6b97e73eac101667985c8961ce56e3625f754fdf23b4ca96e","features":{},"yanked":false}
 {"name":"mut_set","vers":"0.2.4","deps":[],"cksum":"c84ea77b35f38529700a93f2e59a486b640ccdf6e5afd598667268e490eba7b2","features":{},"yanked":false}
 {"name":"mut_set","vers":"0.2.5","deps":[],"cksum":"c6995b04570a14ba5a39f963e39f55a1b63d011197517bb4551814a910f83baf","features":{},"yanked":false}
+{"name":"mut_set","vers":"0.2.6","deps":[],"cksum":"e838a4a3b5efaca58fec3c4c53339a54d90002498b3fbef0ab213914df99fb47","features":{},"yanked":false}
