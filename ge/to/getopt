@@ -25,3 +25,4 @@
 {"name":"getopt","vers":"1.1.3","deps":[],"cksum":"ee1289e6cb1ae7c28a9b9776bd599f8afb31c20965ff257a8ea20eaa4da5e3c7","features":{},"yanked":false}
 {"name":"getopt","vers":"1.1.4","deps":[],"cksum":"9f3699253a5e0cc57029e178afc29b4655531d95f20301aba488064fc08fc47a","features":{},"yanked":false}
 {"name":"getopt","vers":"1.1.5","deps":[],"cksum":"ab878c0f405de260131d9f6b69ca9dec9f601a447387ea038735c3fb486983c3","features":{},"yanked":false,"rust_version":"1.30.0"}
+{"name":"getopt","vers":"1.1.6","deps":[],"cksum":"d57b4e23f9bedcedbf1538cb994cd91e122ba0d0216986b716511db81dd42807","features":{},"yanked":false,"rust_version":"1.30.0"}
