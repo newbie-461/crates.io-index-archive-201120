@@ -24,3 +24,4 @@
 {"name":"btree_experiment","vers":"0.1.23","deps":[],"cksum":"d9e530a60875bfd099549e0f723d6966487afd2a8a098384238a7b0d37b55b66","features":{},"yanked":false}
 {"name":"btree_experiment","vers":"0.1.24","deps":[],"cksum":"846061c17c86319faebf0ed183e972feb3a445801a8e8c9820d70e310a05e427","features":{},"yanked":false}
 {"name":"btree_experiment","vers":"0.1.25","deps":[],"cksum":"603d366fc01a08ce0feb11161fa500f4ec6fff010d63234f779d8ee757846049","features":{},"yanked":false}
+{"name":"btree_experiment","vers":"0.1.26","deps":[],"cksum":"1c3dd4b1b8a116bc8d06a945f226fab898b45c00736d041fe37057e58ee898e2","features":{},"yanked":false}
