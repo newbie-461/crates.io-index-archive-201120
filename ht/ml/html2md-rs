@@ -12,3 +12,4 @@
 {"name":"html2md-rs","vers":"0.5.0","deps":[],"cksum":"11e9aa279a80c40b9943ba8c2f23d29b8c95e2bd79b0ae16d2ed552c69d4aa81","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.5.1","deps":[],"cksum":"32ea3056590dcaa5ef2262e77c8f7de6ca987f01b46a657abee8ee3e1a41de68","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.6.0","deps":[],"cksum":"0cea739b7006dfed9f97c0a5912095245bf41fc5c2428ee634786a5df0740c86","features":{},"yanked":false}
+{"name":"html2md-rs","vers":"0.7.0","deps":[],"cksum":"b247e6129330a9bba4d83d0afeb12618243102c2371a4281e920ee79bde57a2b","features":{},"yanked":false}
