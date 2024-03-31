@@ -1,2 +1,3 @@
 {"name":"graaf","vers":"0.1.0","deps":[{"name":"divan","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"21113958dd66adf9f16337b518e015e6b83f99632ad084fe14c498de15991652","features":{},"yanked":false}
 {"name":"graaf","vers":"0.2.0","deps":[{"name":"divan","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d0a36f74c4caccdb74de98b850220413169e7f43df364e708f638c9761446c71","features":{},"yanked":false}
+{"name":"graaf","vers":"0.2.1","deps":[{"name":"divan","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a9e0c464a99d3ceca7e7de239c293f7da4e21360caac4803febe8dae54a25e02","features":{},"yanked":false}
