@@ -7,3 +7,4 @@
 {"name":"super-shell","vers":"1.2.1","deps":[],"cksum":"3ca4a2060dda1f3db1c97dfe4cfda724e29407b7cd06a12dc48cff71e97d05e1","features":{},"yanked":false}
 {"name":"super-shell","vers":"1.2.2","deps":[],"cksum":"dacbaca68c934850f0e755d22d598ffb9389afc5565dde6e6e7b35e856342454","features":{},"yanked":false}
 {"name":"super-shell","vers":"1.2.3","deps":[],"cksum":"bf112dacca1024ad04ea41e02ff50ef395b87af3ad820634605a4d4c187979d2","features":{},"yanked":false}
+{"name":"super-shell","vers":"1.2.4","deps":[],"cksum":"42bf5b17d04fed30f573faec15fcf50b00e1e9646b08b7e2ccef95443fe603bc","features":{},"yanked":false}
