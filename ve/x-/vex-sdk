@@ -1,3 +1,4 @@
 {"name":"vex-sdk","vers":"0.1.0","deps":[],"cksum":"3076ea017c2f3be2cafc8c8453a5e7427713e7dcfa1e634a5de5cf3661bdff9b","features":{},"yanked":false}
 {"name":"vex-sdk","vers":"0.2.0","deps":[],"cksum":"dcdfab52b84cd0f14d53244c8a077d4aa316bd24a6ca71da8a46d35c4280e674","features":{},"yanked":false}
 {"name":"vex-sdk","vers":"0.3.0","deps":[],"cksum":"6d0265bff0ca10804740304e5da7b5b8dad5418d4396f723629bea3102902122","features":{},"yanked":false}
+{"name":"vex-sdk","vers":"0.4.0","deps":[],"cksum":"4d6afbf2a856324c45e919c4a2ab880d7df4a27d4afaee9999a05e7dae57352d","features":{},"yanked":false}
