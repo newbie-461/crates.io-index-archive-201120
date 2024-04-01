@@ -49,3 +49,4 @@
 {"name":"zuu","vers":"15.0.0","deps":[{"name":"ansi-escapes","req":"=0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ad13a6d2784845f1b6eba5f8ee6525ddd5f33735af25a9f58ce7e6b501cc7e8","features":{},"yanked":false}
 {"name":"zuu","vers":"15.1.0","deps":[{"name":"ansi-escapes","req":"=0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aca6878c1b125b10069bd5d2f5947160b94920a09a5a282e5b46a67b63a3be47","features":{},"yanked":false}
 {"name":"zuu","vers":"16.0.0","deps":[],"cksum":"16a0ae6e2648c7cc39df6fde5cc3faac5758e31801b9e1254c307058317f2b45","features":{},"yanked":false}
+{"name":"zuu","vers":"16.0.1","deps":[],"cksum":"769e89cce775881d653dc2dd0f7f04ee2f3e2a6bcc6ac3349cf4ebd55122ea4a","features":{},"yanked":false}
