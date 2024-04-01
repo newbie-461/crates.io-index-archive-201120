@@ -38,3 +38,4 @@
 {"name":"btree_experiment","vers":"0.1.37","deps":[],"cksum":"79823b9af445608871130f981fec80dd874b089ef85497f75bba05508727b429","features":{},"yanked":false}
 {"name":"btree_experiment","vers":"0.1.38","deps":[],"cksum":"e02a1016f8b8034174f174922799f4f2948bd8ecd66372f4a122b20c39588258","features":{},"yanked":false}
 {"name":"btree_experiment","vers":"0.1.39","deps":[],"cksum":"22fd1f449e233559bc3f1f632244e65d0f473b55fb4eeea37d7863ecadc30a5b","features":{},"yanked":false}
+{"name":"btree_experiment","vers":"0.1.40","deps":[],"cksum":"70470b68c84241f50e6bc691dd9f9878758f0719843235bf8061d221c0566174","features":{},"yanked":false}
