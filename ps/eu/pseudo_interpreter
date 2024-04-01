@@ -3,3 +3,4 @@
 {"name":"pseudo_interpreter","vers":"1.1.1","deps":[],"cksum":"650661c07982d6c53a1cdf1027e238ec6ff9883a06e085db227370230df58e78","features":{},"yanked":false}
 {"name":"pseudo_interpreter","vers":"1.1.2","deps":[],"cksum":"1c96b4cc68cc150e6f2d219e7d05802507df052097a6e693371c7ac41355b0dc","features":{},"yanked":false}
 {"name":"pseudo_interpreter","vers":"1.1.4","deps":[],"cksum":"47ce466ea41c2725245565109f864be9a24a7f8d543405b0f27dc34efec1d947","features":{},"yanked":false}
+{"name":"pseudo_interpreter","vers":"1.1.5","deps":[],"cksum":"28e9a223be4ef233049affdd13bbeeaad54ffe99b749381705491e000be46c0e","features":{},"yanked":false}
