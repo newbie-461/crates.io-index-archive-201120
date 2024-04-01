@@ -4,3 +4,4 @@
 {"name":"fk_std","vers":"0.2.2","deps":[],"cksum":"1077850c082c3a921718b1737e05d190044f0a5b8ce4c748c0b53ffa2a0e3a8d","features":{},"yanked":false}
 {"name":"fk_std","vers":"0.2.3","deps":[],"cksum":"a1f15e5dad885b9515aafae13916be833aef55f12824867bf16bf5cbf6c97b9e","features":{},"yanked":false}
 {"name":"fk_std","vers":"0.3.3","deps":[{"name":"libc","req":"^0.2.85","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6e17ce0562d98dceda3ea9b1d15e129a5d54301d5a1a65d64cd14ff1f03a999","features":{},"yanked":false}
+{"name":"fk_std","vers":"0.3.4","deps":[],"cksum":"966ac2c4b69a0d4d0353bc38fcb66de9204e1ed0309e2a35e1efe9b2e5ee3d8a","features":{},"yanked":false}
