@@ -1,2 +1,3 @@
 {"name":"golangify","vers":"0.1.0","deps":[],"cksum":"8d05872e5d3b11e74a695ae8c61fe3f8e5de456974ad99b4d84b4802e4f5f3fc","features":{},"yanked":true}
 {"name":"golangify","vers":"0.1.1","deps":[],"cksum":"cf46c7c0dde521305f7cb76b98bac5064c2316ad20bc8c1f3bfdec1690e18ee0","features":{},"yanked":true}
+{"name":"golangify","vers":"0.1.2","deps":[],"cksum":"9da602985e2d6054466bfa7ecf5cb5b0b1079242780fe0d06a3fb3691f83aabe","features":{},"yanked":false}
