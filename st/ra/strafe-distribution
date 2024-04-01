@@ -1,0 +1,1 @@
+{"name":"strafe-distribution","vers":"0.1.0","deps":[{"name":"r2rs-nmath","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d41ec93852c90dcfcacae28a78567c77774ad431910e2932ead474429c852da","features":{},"yanked":false}
