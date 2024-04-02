@@ -1,1 +1,2 @@
 {"name":"wasmtime-slab","vers":"19.0.0","deps":[],"cksum":"83448ef600ad95977019ebaea84a5516fdbc9561d0a8e26b1e099351f993b527","features":{},"yanked":false}
+{"name":"wasmtime-slab","vers":"19.0.1","deps":[],"cksum":"52d7b97b92df126fdbe994a53d2215828ec5ed5087535e6d4703b1fbd299f0e3","features":{},"yanked":false}
