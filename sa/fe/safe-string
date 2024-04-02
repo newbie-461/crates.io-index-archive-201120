@@ -2,3 +2,4 @@
 {"name":"safe-string","vers":"0.1.1","deps":[],"cksum":"f9b95c754451a4a8b00011e37320894983b28dbded186ac4c8786a71a2d61f22","features":{},"yanked":false}
 {"name":"safe-string","vers":"0.1.2","deps":[],"cksum":"a0280dfe462285132017d412c58d03e0d31e0f4e601535e7c8778a7e8f1b96c8","features":{},"yanked":false}
 {"name":"safe-string","vers":"0.1.3","deps":[],"cksum":"fc57e32a4b78158888c3e95efa3579d96d91a9b1a12d0fa207da21461bd4e842","features":{},"yanked":false}
+{"name":"safe-string","vers":"0.1.4","deps":[],"cksum":"d856abe247fbe3beb3eb1d6fedf84ea777287054a592737b9c2a6ef92312868c","features":{},"yanked":false}
