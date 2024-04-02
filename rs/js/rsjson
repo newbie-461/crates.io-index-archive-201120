@@ -10,3 +10,4 @@
 {"name":"rsjson","vers":"0.3.0","deps":[],"cksum":"2f2c20765acca77810805c502ee9cda5a756a6f84840b7bff6dbb1b03672006f","features":{},"yanked":false}
 {"name":"rsjson","vers":"0.3.1","deps":[],"cksum":"31618804164da5f62bb1bbdeca32324ed00bba67353ed7a030550fdafe35e260","features":{},"yanked":false}
 {"name":"rsjson","vers":"0.3.2","deps":[],"cksum":"0a0174087d085da727a900421512083668a696c4a7342a37cb7e195bf5cad87b","features":{},"yanked":false}
+{"name":"rsjson","vers":"0.3.3","deps":[],"cksum":"f1f1ee56f854ef7fd6924abef3e7cb256d841527b6fc5e912a3cfe0fcd54c49e","features":{},"yanked":false}
