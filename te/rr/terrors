@@ -9,3 +9,4 @@
 {"name":"terrors","vers":"0.2.2","deps":[],"cksum":"b573ef6037895a5b1c8e125cb38f0c38e207892c0744eb86ee7cbc7457130345","features":{},"yanked":false}
 {"name":"terrors","vers":"0.2.3","deps":[],"cksum":"1a3a59b06d08911904d963547a31c846a182a4a61bc1827a1a310b870b7ab57f","features":{},"yanked":false}
 {"name":"terrors","vers":"0.2.5","deps":[],"cksum":"47fccb132c83c894c36209f9aae2439429aeb1387775acc1f79dbe8a6fbf5061","features":{},"yanked":false}
+{"name":"terrors","vers":"0.2.6","deps":[],"cksum":"23380e640f3d6341e2eeab92af95b21d671436acbfaf509b83116d8d4b668d47","features":{},"yanked":false}
