@@ -4,3 +4,4 @@
 {"name":"pseudo_interpreter","vers":"1.1.2","deps":[],"cksum":"1c96b4cc68cc150e6f2d219e7d05802507df052097a6e693371c7ac41355b0dc","features":{},"yanked":false}
 {"name":"pseudo_interpreter","vers":"1.1.4","deps":[],"cksum":"47ce466ea41c2725245565109f864be9a24a7f8d543405b0f27dc34efec1d947","features":{},"yanked":false}
 {"name":"pseudo_interpreter","vers":"1.1.5","deps":[],"cksum":"28e9a223be4ef233049affdd13bbeeaad54ffe99b749381705491e000be46c0e","features":{},"yanked":false}
+{"name":"pseudo_interpreter","vers":"1.1.6","deps":[],"cksum":"f16f9ec62666ee0a7a6fb98f3f09e6cdfc06070a5325f81fe7d7b0d0b62dd8f2","features":{},"yanked":false}
