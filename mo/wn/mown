@@ -3,3 +3,4 @@
 {"name":"mown","vers":"0.2.0","deps":[],"cksum":"f6a4e7d8809965071d2599a5822e54ac00646073e05d6da53158e0bdebb51692","features":{},"yanked":false}
 {"name":"mown","vers":"0.2.1","deps":[],"cksum":"8c1dd912d3c7c6c6fd557d1eadfc20ef57bb0a4de572cb0e875b171571c355e4","features":{},"yanked":false}
 {"name":"mown","vers":"0.2.2","deps":[],"cksum":"e7627d8bbeb17edbf1c3f74b21488e4af680040da89713b4217d0010e9cbd97e","features":{},"yanked":false}
+{"name":"mown","vers":"1.0.0","deps":[],"cksum":"1460558cee241bd687f37536f9d15403645e749db36e277a7d773505e6508db9","features":{},"yanked":false}
