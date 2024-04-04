@@ -6,3 +6,4 @@
 {"name":"anonymous_table","vers":"0.2.3","deps":[],"cksum":"691e501358d423e3c7277dc6c748ca5b83fe03e862ea2057ae49d13251f05939","features":{},"yanked":false}
 {"name":"anonymous_table","vers":"0.2.4","deps":[],"cksum":"e1d075dba65705a685ef8039f257072e9c550e4b202e0b4a96846e63240c972a","features":{},"yanked":false}
 {"name":"anonymous_table","vers":"0.3.0","deps":[],"cksum":"7f594941463e8a5e5532affb7c1f0a120763c6023d46a45ca5b2f39cdc5f7a82","features":{},"yanked":false}
+{"name":"anonymous_table","vers":"0.3.1","deps":[],"cksum":"e1c3e8d8e142e4484872dc952093df5f0cda7a5add28dcdebb8b55c889ebdfaa","features":{},"yanked":false}
