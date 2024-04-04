@@ -28,3 +28,4 @@
 {"name":"stak-device","vers":"0.2.20","deps":[],"cksum":"db424a4dba4227ba8d2788d9fc6bded9f4a53b8ccb20e3e637c0b77741f647fc","features":{"std":[]},"yanked":false}
 {"name":"stak-device","vers":"0.2.21","deps":[],"cksum":"5894039d701c824632df73701e37f31d575ccbf7e666ed33de67ebb7d1b7ff38","features":{"std":[]},"yanked":false}
 {"name":"stak-device","vers":"0.2.22","deps":[],"cksum":"68e5f9b8c22c13e0f5358a276a562bf9c9dfbfdc171609d8d5806aef8f440dbc","features":{"std":[]},"yanked":false}
+{"name":"stak-device","vers":"0.2.23","deps":[{"name":"libc","req":"^0.2.153","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c335279abb61d74ac67ba9b378d54ff866a86262325fcefe9268287e5f9eb108","features":{"std":[]},"features2":{"libc":["dep:libc"]},"yanked":false,"v":2}
