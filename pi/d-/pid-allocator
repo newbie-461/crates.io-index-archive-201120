@@ -1,1 +1,2 @@
 {"name":"pid-allocator","vers":"0.1.0","deps":[{"name":"spin","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18d6978498d8a7aece551d0281922025e2d3aa4448e990c09d8a3152a1bc0dab","features":{},"yanked":false}
+{"name":"pid-allocator","vers":"0.1.1","deps":[{"name":"spin","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31f926a26079dbc8a7c75fa597a871a64483fdc2052bbb5aa1eacb4d69db3f75","features":{},"yanked":false}
