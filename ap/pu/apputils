@@ -4,3 +4,4 @@
 {"name":"apputils","vers":"0.1.3","deps":[],"cksum":"de832db0abc039a5f57ed0d887a8f6267af25f3ecb39caebe62b1f9a2532d05f","features":{},"yanked":false}
 {"name":"apputils","vers":"0.1.4","deps":[],"cksum":"b14d1bd188b1a5aa39c00113bfa31e101ccbfde2907d4d903d7cd7aa84db48ae","features":{},"yanked":true}
 {"name":"apputils","vers":"0.1.5","deps":[],"cksum":"0b1a0c0a3a9338c3e542a1a7075e1389ee1e8373b443d47b126f7510abddcb1a","features":{},"yanked":false}
+{"name":"apputils","vers":"0.1.6","deps":[],"cksum":"e14e94990e8fd0c34e13ee6b807b14f8aedfdab6f85cde4d2fb5ce6703a9b5cc","features":{},"yanked":false}
