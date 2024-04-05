@@ -22,3 +22,4 @@
 {"name":"sql-parse","vers":"0.15.2","deps":[],"cksum":"5b151fca1cf7f23991221267a363463a323281b7364500fabed2693bef89d956","features":{},"yanked":false}
 {"name":"sql-parse","vers":"0.16.0","deps":[],"cksum":"dda2436e0801cdaba3900bf2634649367c2c56eb049b91b464a96a4e81aefd30","features":{},"yanked":false}
 {"name":"sql-parse","vers":"0.17.0","deps":[],"cksum":"4f085250279a6d0dddce4846e132b472394f6705dbae982a8cdb8884affa68bc","features":{},"yanked":false}
+{"name":"sql-parse","vers":"0.18.0","deps":[],"cksum":"8156b7c1fa2856794e8f82df0c9daa346e068abe9409eb7209fec5d608131bf7","features":{},"yanked":false}
