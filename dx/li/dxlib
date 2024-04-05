@@ -24,3 +24,4 @@
 {"name":"dxlib","vers":"0.3.1","deps":[],"cksum":"c4cb1ede9eedb5ad3d7df532b6464f6688b56cca029f120765d0e6bfe1c431eb","features":{},"yanked":true}
 {"name":"dxlib","vers":"0.3.2","deps":[],"cksum":"e19fe02e4bd3f3396fe9eac345678b9234ce88fe83a3945f7b78a342692f7591","features":{},"yanked":true}
 {"name":"dxlib","vers":"0.3.3","deps":[],"cksum":"9737d4ad61ff844de4f1e3386967daf9a8b635fb571f9fc983e403e5b5983b9d","features":{},"yanked":false}
+{"name":"dxlib","vers":"0.3.4","deps":[{"name":"Fullerene","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d1f0ee7d6dba9aa8d6f81f2c6650630996e4689902d9943e78ad807593f5533","features":{},"yanked":false}
