@@ -1,1 +1,2 @@
 {"name":"asciidork-ast","vers":"0.1.0","deps":[{"name":"bumpalo","req":"^3.15.4","features":["collections"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17a7432ca7d8042650dc028bf824f7f106ad73662184ae5e27c4f80c33b5cc8b","features":{},"yanked":false}
+{"name":"asciidork-ast","vers":"0.2.0","deps":[{"name":"bumpalo","req":"^3.15.4","features":["collections"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8dd871fe8b46470498482caeb73b9aa7f6dc832c85f932a7c5f5b275990bb2c","features":{},"yanked":false}
