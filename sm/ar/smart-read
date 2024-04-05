@@ -8,3 +8,4 @@
 {"name":"smart-read","vers":"0.3.2","deps":[],"cksum":"340bfd52a2a1539b392b2744ec193010f2d18196ec6c59401d385e75c1126c37","features":{},"yanked":false}
 {"name":"smart-read","vers":"0.4.0","deps":[],"cksum":"c4fb872fb1e8423c438a6c08d86cf1991fcd99f9137fbcf10df908c5a16c8b39","features":{},"yanked":false}
 {"name":"smart-read","vers":"0.4.1","deps":[],"cksum":"ea426315e4f833829db626a2673133a2e723fd6b2d82fa002aa98c19207bc374","features":{},"yanked":false}
+{"name":"smart-read","vers":"0.5.0","deps":[],"cksum":"0e1f4a46d6af4ada49154df67af553a301bbda8f36524ba083122c71dae3bb84","features":{},"yanked":false}
