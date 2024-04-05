@@ -3,3 +3,4 @@
 {"name":"unicode-icons","vers":"0.1.5","deps":[],"cksum":"9b833144f2c5673d2865f0dea8f9cd0a47833100340ea6b3dbc3a774fec712f1","features":{},"yanked":false}
 {"name":"unicode-icons","vers":"1.0.0","deps":[],"cksum":"ddb33fa36f54270a1f3a498f12a763e2a44e49102641e8e42e5a2085c72d1eaa","features":{},"yanked":false}
 {"name":"unicode-icons","vers":"1.0.1","deps":[],"cksum":"89c13b079e3553b48fb0ac71561aafb8a8778a69a6aa042c8d545f47dc3b870d","features":{},"yanked":false}
+{"name":"unicode-icons","vers":"2.0.1","deps":[],"cksum":"240289698a1f14e1f93e94637587d48fa843eb67dc0c23306b47675c8b07f00e","features":{"activities":[],"animals_and_nature":[],"component":[],"flags":[],"food_and_drink":[],"objects":[],"people_and_body":[],"smileys_and_emotion":[],"symbols":[],"travel_and_places":[]},"yanked":false}
