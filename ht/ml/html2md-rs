@@ -16,3 +16,4 @@
 {"name":"html2md-rs","vers":"0.7.1","deps":[],"cksum":"e84b137505af5a0dc380f5cb7dd52f42db84f8b0bd0f4a5dd2d1151e35d17177","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.7.2","deps":[],"cksum":"be33ebbc83a9722d6d739e8944b8cdae0692092ab7a31b125ae85a2a3f4a065f","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.8.0","deps":[],"cksum":"376e429eabcbde1edb487b40478bc817d13b684adb4890e2c8d80a7b8a8bfa81","features":{},"yanked":false}
+{"name":"html2md-rs","vers":"0.8.1","deps":[],"cksum":"784f48658b808e4dc4aa97689f33e226564a16997bb9190ef938f6134b71a94e","features":{},"yanked":false}
