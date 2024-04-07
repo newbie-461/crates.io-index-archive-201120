@@ -1,1 +1,2 @@
 {"name":"practical-astronomy-rust","vers":"0.2.0","deps":[{"name":"num","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"601b97c7e51bef75a7f08df94cef3502c980b0bd4316e8d30c4ba5961c437ad1","features":{},"yanked":false}
+{"name":"practical-astronomy-rust","vers":"0.2.1","deps":[{"name":"num","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b400066401d72f4de2eefd9948ce35655b2ca0560dbe8de1734e7ad6734716b0","features":{},"yanked":false}
