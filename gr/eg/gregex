@@ -1,2 +1,3 @@
 {"name":"gregex","vers":"0.4.1","deps":[],"cksum":"40e8bea4156910fae003dee165cebe72a8c5e848329ff9b545966901b88295ea","features":{},"yanked":false}
 {"name":"gregex","vers":"0.4.3","deps":[],"cksum":"a1975164879dd705afd4c013ed27120139d65c35bfa33bd124ec1aeaa07c92a1","features":{},"yanked":false}
+{"name":"gregex","vers":"0.5.0","deps":[],"cksum":"567127a496bde9c9969eb13dc1994e62e3502e7ee31bbe733343fb71093612e2","features":{},"yanked":false}
