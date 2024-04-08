@@ -1,1 +1,2 @@
 {"name":"zng-txt","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75bd3a0d7ced65c8453dd3f6d4b216c225e2e87567db8de68cbf64c2ad6a0ebf","features":{},"yanked":false}
+{"name":"zng-txt","vers":"0.2.1","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0de6e72af5846182b11896b272e0379bff26c4a98cf1d060b4ff86b84ad5555","features":{},"yanked":false}
