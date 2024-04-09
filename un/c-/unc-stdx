@@ -7,3 +7,4 @@
 {"name":"unc-stdx","vers":"0.6.2","deps":[],"cksum":"aa63833302b0214764abb31194d2cb610d0757fc8dab9a8389c137b3dc3c20f6","features":{},"yanked":false}
 {"name":"unc-stdx","vers":"0.7.0","deps":[],"cksum":"a74cb5adc4fbee886825e1523b2f73dc9390d8800e8b774fd8245c7a06e053b7","features":{},"yanked":false}
 {"name":"unc-stdx","vers":"0.7.1","deps":[],"cksum":"ce66a74fa5b8783b170214729c7779337aae1c4dcb290a4748aa0c8d8103fa0d","features":{},"yanked":false}
+{"name":"unc-stdx","vers":"0.7.2","deps":[],"cksum":"9b5f83a88e29e260dd11680bbc987c69eced0450da97d32254854c01569309bb","features":{},"yanked":false}
