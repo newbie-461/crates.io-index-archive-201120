@@ -7,3 +7,4 @@
 {"name":"pipeop","vers":"0.1.6","deps":[],"cksum":"9b9bf5dfc687f6634d00528468ea62a8ea7166cdf0dea485536d53c170eac5cf","features":{},"yanked":false}
 {"name":"pipeop","vers":"0.1.7","deps":[],"cksum":"ab064870363d4921a30e8b4509489b82c3b6ba5970551e68ec9b3fdcc26f46fd","features":{},"yanked":false}
 {"name":"pipeop","vers":"0.1.8","deps":[],"cksum":"758b4c20db9517ce0cad4134e1428b30f63703080a3df0ed2bb6581c47318b63","features":{},"yanked":false}
+{"name":"pipeop","vers":"0.2.0","deps":[],"cksum":"5a361ef5cc273d0590609242f758a8392cb88b6ef18bb98cf3a06c819956052c","features":{},"yanked":false}
