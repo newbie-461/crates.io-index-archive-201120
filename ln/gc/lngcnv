@@ -49,3 +49,4 @@
 {"name":"lngcnv","vers":"1.8.10","deps":[],"cksum":"b27b7da726bd64120f76b484680bfb241a62b53aa9db69e66253f06bba6327e2","features":{},"yanked":false}
 {"name":"lngcnv","vers":"1.8.11","deps":[],"cksum":"58af3a708c6f8404660f2803e89e3fb8ac4dd2caac58677faa557cd7aee23924","features":{},"yanked":false}
 {"name":"lngcnv","vers":"1.8.12","deps":[],"cksum":"fe41923d54c39593071bb8a3177b0ae75e1a33535e9419adb364f257bdc3e87f","features":{},"yanked":false}
+{"name":"lngcnv","vers":"1.9.0","deps":[],"cksum":"1a93fba3d6db8ce73b56fb4f8e6b4ebddda8978b206b028a12d9465012344454","features":{},"yanked":false}
