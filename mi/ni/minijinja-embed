@@ -6,3 +6,4 @@
 {"name":"minijinja-embed","vers":"1.0.16","deps":[],"cksum":"bdc7029c6a2b4e0a8ec5be10d44b791948b20e5b80c555177c8ef4d362b70cac","features":{},"yanked":false,"rust_version":"1.61"}
 {"name":"minijinja-embed","vers":"1.0.17","deps":[],"cksum":"6fd4b14a3c337997674e82b7a7a696303d11904422e7050d44e3975c6a4931a4","features":{},"yanked":false,"rust_version":"1.61"}
 {"name":"minijinja-embed","vers":"1.0.18","deps":[],"cksum":"31c73f66032d7cbb16525ad86fad6b8418dd645ce02d7ff16133082297ad865c","features":{},"yanked":false,"rust_version":"1.61"}
+{"name":"minijinja-embed","vers":"1.0.20","deps":[],"cksum":"b1b93ccdc8cef6ad04f41d6e216e0668963491d0a874bc80bff2980ffb52a839","features":{},"yanked":false,"rust_version":"1.61"}
