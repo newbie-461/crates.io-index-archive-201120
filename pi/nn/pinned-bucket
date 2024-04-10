@@ -5,3 +5,4 @@
 {"name":"pinned-bucket","vers":"0.1.4","deps":[],"cksum":"6306e72e908e5a8ec8ff1c389b2aaabf0e1fd31f7b8ef20f95d50c12c765d43f","features":{},"yanked":false}
 {"name":"pinned-bucket","vers":"0.1.5","deps":[],"cksum":"c454c9296bdaf01c1df540520157a9b85c061e88e55dd3d118538b714a3c982f","features":{},"yanked":false}
 {"name":"pinned-bucket","vers":"0.2.0","deps":[],"cksum":"ed8cb17853a9ceca6d90c5d065e5bed10967081e3b33335c2ffea975bd71d65b","features":{},"yanked":false}
+{"name":"pinned-bucket","vers":"0.2.1","deps":[],"cksum":"de8b9fbf716989a38881a86c2006b21efe5e890690b8431998f912602cb4ec6b","features":{},"yanked":false}
