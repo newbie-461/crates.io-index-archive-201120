@@ -4,3 +4,4 @@
 {"name":"ptr_cell","vers":"1.2.0","deps":[],"cksum":"77f31ad66e698377cd41fe6855bcfb11cbcd45ca71f25584521270be8fc84f6f","features":{},"yanked":false}
 {"name":"ptr_cell","vers":"1.2.1","deps":[],"cksum":"76928ca6061bc7b06bf1cc3b86c178b186434d757177329304046726d70e4bb4","features":{},"yanked":false}
 {"name":"ptr_cell","vers":"2.0.0","deps":[],"cksum":"22c1e783e88461c081e3d9f43b90faf8631b98fcc6880ea28f6c0439efbeb7c6","features":{},"yanked":false}
+{"name":"ptr_cell","vers":"2.1.0","deps":[],"cksum":"b3f30b9f31a636abfd72bf2354aecd091cb4745c0361d2a664eadc14b855a584","features":{},"yanked":false}
