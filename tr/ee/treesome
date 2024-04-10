@@ -2,3 +2,4 @@
 {"name":"treesome","vers":"0.2.0","deps":[],"cksum":"8bf93766a6cb2d2e260cd40b38c6cdd8b6a48fb9b85e392694a6869ec7e8ec9a","features":{},"yanked":false}
 {"name":"treesome","vers":"0.3.0","deps":[],"cksum":"99890821ea5ca5b4fa7fc757caf4d8b7ed2b23e79897e7f9fad428856144b59d","features":{},"yanked":false}
 {"name":"treesome","vers":"0.4.0","deps":[],"cksum":"4584bb748c2c818eaceff5eecd6d403bb5f76e54c363d13e1fa8b6b07514c915","features":{},"yanked":false}
+{"name":"treesome","vers":"0.5.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"25a2f0bf4a726f7b1771f05c7b053d5867f5c401fd6e79cd54ef7d69e888d669","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
