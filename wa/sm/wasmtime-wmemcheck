@@ -19,3 +19,4 @@
 {"name":"wasmtime-wmemcheck","vers":"19.0.1","deps":[],"cksum":"b77212b6874bbc86d220bb1d28632d0c11c6afe996c3e1ddcf746b1a6b4919b9","features":{},"yanked":false}
 {"name":"wasmtime-wmemcheck","vers":"18.0.4","deps":[],"cksum":"e1711f429111e782fac0537e0b3eb2ab6f821613cf1ec3013f2a0ff3fde41745","features":{},"yanked":false}
 {"name":"wasmtime-wmemcheck","vers":"19.0.2","deps":[],"cksum":"c9a8c62e9df8322b2166d2a6f096fbec195ddb093748fd74170dcf25ef596769","features":{},"yanked":false}
+{"name":"wasmtime-wmemcheck","vers":"17.0.3","deps":[],"cksum":"8425f923a58d18de2912d569c59bfa94bbd789074a459d018c62531d5111037c","features":{},"yanked":false}
