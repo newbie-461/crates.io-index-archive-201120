@@ -88,3 +88,4 @@
 {"name":"re_build_info","vers":"0.15.0-rc.3","deps":[],"cksum":"1fce8c4e1ff36cc140d0a27925d59340339fc07737eedb22540ab69573c5093f","features":{},"yanked":false,"rust_version":"1.74"}
 {"name":"re_build_info","vers":"0.15.0","deps":[],"cksum":"e6dbbf43dba67197d717fb59bb1bb625f45bfaba5885a40c7e488e8f0a8ae536","features":{},"yanked":false,"rust_version":"1.74"}
 {"name":"re_build_info","vers":"0.15.1-rc.1","deps":[],"cksum":"1487660685f8aeb44b4e5e28c1dea873f757c153d034a85f98713bfe77a73e1d","features":{},"yanked":false,"rust_version":"1.74"}
+{"name":"re_build_info","vers":"0.15.1","deps":[],"cksum":"147f2e79d9d8ef833666413adbc795403e250cfd8f29f41ede198a5a4dde8612","features":{},"yanked":false,"rust_version":"1.74"}
