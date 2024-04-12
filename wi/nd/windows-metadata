@@ -23,3 +23,4 @@
 {"name":"windows-metadata","vers":"0.53.0","deps":[],"cksum":"05277688a47aaf3f8be5e8572f845cfa78288d9b62ec6e589fd50e8b57276bfe","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"windows-metadata","vers":"0.54.0","deps":[],"cksum":"e44370b8367d7fd54085dff98fa774ead5070dd15aa892270a370555e35d04c2","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"windows-metadata","vers":"0.55.0","deps":[],"cksum":"b602635050172a1fc57a35040d4d225baefc6098fefd97094919921d95961a7d","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"windows-metadata","vers":"0.56.0","deps":[],"cksum":"3993f7827fff10c454e3a24847075598c7c08108304b8b07943c2c73d78f3b34","features":{},"yanked":false,"rust_version":"1.70"}
