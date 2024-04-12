@@ -7,3 +7,4 @@
 {"name":"minijinja-embed","vers":"1.0.17","deps":[],"cksum":"6fd4b14a3c337997674e82b7a7a696303d11904422e7050d44e3975c6a4931a4","features":{},"yanked":false,"rust_version":"1.61"}
 {"name":"minijinja-embed","vers":"1.0.18","deps":[],"cksum":"31c73f66032d7cbb16525ad86fad6b8418dd645ce02d7ff16133082297ad865c","features":{},"yanked":false,"rust_version":"1.61"}
 {"name":"minijinja-embed","vers":"1.0.20","deps":[],"cksum":"b1b93ccdc8cef6ad04f41d6e216e0668963491d0a874bc80bff2980ffb52a839","features":{},"yanked":false,"rust_version":"1.61"}
+{"name":"minijinja-embed","vers":"2.0.0-alpha.0","deps":[],"cksum":"063766e642c9b49e9412bf088b7d219f2732225c9e0574916f9052b7ecbbd4d3","features":{},"yanked":false,"rust_version":"1.61"}
