@@ -1,2 +1,3 @@
 {"name":"my_first_cli","vers":"0.1.0","deps":[],"cksum":"dd8aa2d7f9cc9e758fcaea635d6a7c19de9569325d3047ce30a11c18afe7bf9b","features":{},"yanked":false}
 {"name":"my_first_cli","vers":"0.1.1","deps":[],"cksum":"3c742aef2b0fe4e359d937c5d9e3e71046faebc65e307b94ecc0d0b1b30950ca","features":{},"yanked":false}
+{"name":"my_first_cli","vers":"0.1.2","deps":[],"cksum":"61485f82fa0c431a97cdf0aaa8677733616df3262dabee5d9dc4d78ec4cd36c6","features":{},"yanked":false}
