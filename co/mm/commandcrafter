@@ -6,3 +6,4 @@
 {"name":"commandcrafter","vers":"0.3.3","deps":[],"cksum":"85ffcf577696fc3884d17fc6a80452ae509acba334d6fecbf6554ca87e693125","features":{},"yanked":false}
 {"name":"commandcrafter","vers":"0.4.0","deps":[],"cksum":"88b50efface045a57ecf2b51a512ca94d07d8d744c92b8323de432a67bfe3c90","features":{},"yanked":false}
 {"name":"commandcrafter","vers":"0.4.1","deps":[],"cksum":"bd9773eb55804455f4f8b211b78a50e67afd72b96027ab839544831417d323a4","features":{},"yanked":false}
+{"name":"commandcrafter","vers":"0.4.2","deps":[],"cksum":"7eb2416ebf7c9f35e4a475a68994ef2d0b06038d807b5f083eaa83ffc34abfe6","features":{},"yanked":false}
