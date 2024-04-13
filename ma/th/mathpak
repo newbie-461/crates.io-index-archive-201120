@@ -1,1 +1,2 @@
 {"name":"mathpak","vers":"0.1.0","deps":[],"cksum":"65e0dcc27a4c7f5bd3b5ce057f25187969225e1654103d96e1d6dfc5e6524cfd","features":{},"yanked":false}
+{"name":"mathpak","vers":"0.2.0","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77682fd25a9fde5724bb8d065afe4b2503fcc73c60007a3c23194ce1608c47d5","features":{},"yanked":false}
