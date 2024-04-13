@@ -1,1 +1,2 @@
 {"name":"binmatch","vers":"1.0.0","deps":[],"cksum":"825256620f45e978bffaee5bef3a2fa77debd2f05fa025b4358ad9d81e2cdb94","features":{},"yanked":false}
+{"name":"binmatch","vers":"1.0.1","deps":[{"name":"thiserror","req":"^1.0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bec3453471453b03298c0fc6ecbad0043462ab080b80e2d638134bbcab1d2dc6","features":{},"yanked":false}
