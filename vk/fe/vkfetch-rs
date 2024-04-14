@@ -1,1 +1,2 @@
 {"name":"vkfetch-rs","vers":"0.0.1","deps":[{"name":"ash","req":"^0.38.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c02895f1ce4874ad9f2157eeb43fb1010326108e156ef45600f6342ec74aba38","features":{},"yanked":false}
+{"name":"vkfetch-rs","vers":"0.0.2","deps":[{"name":"ash","req":"^0.38.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3326f1125507212a08e2d0a1a38a8329319c49718dd9874d325f0ef6d44c93a","features":{},"yanked":false}
