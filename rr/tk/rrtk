@@ -6,3 +6,4 @@
 {"name":"rrtk","vers":"0.2.0-beta.2","deps":[],"cksum":"5971da140e6842d340638347db60e1ba0caa5a11b9285d4589eb44c0a6ae098a","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.2.0","deps":[],"cksum":"0fe25739f2625e61ac62c7698f0bde3d36852934177111cf93a0f64d47e221ba","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.3.0-alpha.1","deps":[],"cksum":"6645bb44a58656ac51efc32fc7227c967f28c9aed95c04445db363fabd210426","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.3.0-alpha.2","deps":[],"cksum":"b82c4fe2d58f1a63280aedb31f8c2c72b11a8cb14143d2c5fd5ba60df62c853f","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
