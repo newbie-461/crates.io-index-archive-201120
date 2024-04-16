@@ -10,3 +10,4 @@
 {"name":"test_publish_package_timer","vers":"0.0.33","deps":[],"cksum":"9117c1157345cc4cf11cd0547d6bbf4c08d09c0272cb0265a842c11047d8725a","features":{},"yanked":false}
 {"name":"test_publish_package_timer","vers":"0.0.34","deps":[],"cksum":"5c512902baea5a7c33b3e2c2628c4bbbad944c1700fc985d9ddfe8eb5ac71f26","features":{},"yanked":false}
 {"name":"test_publish_package_timer","vers":"0.0.36","deps":[],"cksum":"5ee9b04b3df886078476153cc9af450b0d7bb228f382fce293e66fe7182b17bb","features":{},"yanked":false}
+{"name":"test_publish_package_timer","vers":"0.0.37","deps":[],"cksum":"04bd0b27bf66623f6bb80c5633940f9f69abd3beac97fc28adba02b8d1c33714","features":{},"yanked":false}
