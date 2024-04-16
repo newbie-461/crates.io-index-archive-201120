@@ -7,3 +7,4 @@
 {"name":"rrtk","vers":"0.2.0","deps":[],"cksum":"0fe25739f2625e61ac62c7698f0bde3d36852934177111cf93a0f64d47e221ba","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.3.0-alpha.1","deps":[],"cksum":"6645bb44a58656ac51efc32fc7227c967f28c9aed95c04445db363fabd210426","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
 {"name":"rrtk","vers":"0.3.0-alpha.2","deps":[],"cksum":"b82c4fe2d58f1a63280aedb31f8c2c72b11a8cb14143d2c5fd5ba60df62c853f","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
+{"name":"rrtk","vers":"0.3.0-alpha.3","deps":[],"cksum":"ab78abb98132df05f62d688611c3ffdb41eb54102dad39e533814e9945155631","features":{"default":["std"],"devices":[],"motionprofile":[],"pid":[],"std":[]},"yanked":false}
