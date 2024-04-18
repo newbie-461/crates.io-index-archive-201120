@@ -4,5 +4,5 @@
 {"name":"ripcal","vers":"0.3.0","deps":[],"cksum":"aa576406e7dfee74e277b55bf028567d9e88e6f1415cc9cc0eb8185d218bafe4","features":{},"yanked":true}
 {"name":"ripcal","vers":"0.4.0","deps":[],"cksum":"29e7cbab1f137a04ddae5b5fb76a18ce669fc7af4ad40c470b98ccfc42b7fbde","features":{},"yanked":false}
 {"name":"ripcal","vers":"0.5.0","deps":[],"cksum":"347a09a4cb797d4486f844adc1dfd8cd11d2a29fab694b817a15bdfc1b81070d","features":{},"yanked":true}
-{"name":"ripcal","vers":"0.5.1","deps":[],"cksum":"837cabf5e0a1a986838f214900555a3707923c0d9a553146ad2267a9034c24f6","features":{},"yanked":false}
+{"name":"ripcal","vers":"0.5.1","deps":[],"cksum":"837cabf5e0a1a986838f214900555a3707923c0d9a553146ad2267a9034c24f6","features":{},"yanked":true}
 {"name":"ripcal","vers":"0.5.2","deps":[],"cksum":"d7eed98a10534b14167e379c418fe4c024091aee8e828f268d45111c3a6562a0","features":{},"yanked":false}
