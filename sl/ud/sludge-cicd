@@ -11,3 +11,4 @@
 {"name":"sludge-cicd","vers":"0.1.10","deps":[],"cksum":"95396eef90e6d47a950713e36947a6e631c14fd4f2c99d1c07fb874886023d88","features":{},"yanked":false}
 {"name":"sludge-cicd","vers":"0.1.11","deps":[],"cksum":"0cd155ffeb455e144c81d0a1e756346613cc2d71944f9f4cf316d23e4b4c6e1d","features":{},"yanked":false}
 {"name":"sludge-cicd","vers":"0.1.12","deps":[],"cksum":"c58e7b1807089f78d1075e25cc9a46ef4d236ca56b00ac4016b14afb3ed4a6b8","features":{},"yanked":false}
+{"name":"sludge-cicd","vers":"0.1.13","deps":[],"cksum":"55a86456ff23fdd486441de44c1488221f6426a48a3c63bd97ad5eda1ff6b3d5","features":{},"yanked":false}
