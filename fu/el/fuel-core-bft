@@ -61,3 +61,4 @@
 {"name":"fuel-core-bft","vers":"0.24.1","deps":[],"cksum":"a6f2c8041cb280232c65a07f15ba3be50a41b203f6f2a8af531e427abb5b72de","features":{},"yanked":false}
 {"name":"fuel-core-bft","vers":"0.24.2","deps":[],"cksum":"4659eb6da98a938391a8005fcaa4ac9f6248f0c48de48a08f790828ed400b091","features":{},"yanked":false}
 {"name":"fuel-core-bft","vers":"0.25.0","deps":[],"cksum":"b79b653a431817c60e68293a6cfaee88f39583e2562e3fdd3b40d977c670c51f","features":{},"yanked":false}
+{"name":"fuel-core-bft","vers":"0.25.1","deps":[],"cksum":"5d3ad71db669fae2976d3a163b808e436a99c168717d3c325328399cc1b20ca5","features":{},"yanked":false}
