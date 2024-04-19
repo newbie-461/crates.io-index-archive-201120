@@ -5,3 +5,4 @@
 {"name":"osiris-data","vers":"0.1.4","deps":[],"cksum":"43f9e28d8349b4d82b9ca92b967dfa842723b6fc8fb0fc014a64a25f3f48147e","features":{},"yanked":false}
 {"name":"osiris-data","vers":"0.1.4-withmoredoc","deps":[],"cksum":"0c74a4a325fb552565287e8c5d9ff94112ac9bb2e0fa92e5caadad24625ac236","features":{},"yanked":false}
 {"name":"osiris-data","vers":"0.1.5","deps":[],"cksum":"c2298f871e920b0dc52f61056be3f814e164da682dd707a9decb219b2b66e3d0","features":{"data":[],"default":["memory"],"memory":["data"]},"yanked":false}
+{"name":"osiris-data","vers":"0.1.6","deps":[],"cksum":"5dc2c38c752d9e0dc7277f2c01e70b771a9b25c06a0e266069cbf167e1740b40","features":{"data":[],"default":["memory"],"memory":["data"]},"yanked":false}
