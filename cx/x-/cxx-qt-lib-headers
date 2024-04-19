@@ -5,3 +5,4 @@
 {"name":"cxx-qt-lib-headers","vers":"0.5.2","deps":[],"cksum":"f3145b3e81bf3d01bd13ede22ec21d1a3cf0d42461ec322abfb2abce7a7ba81f","features":{"default":[],"qt_gui":[],"qt_qml":[]},"yanked":false}
 {"name":"cxx-qt-lib-headers","vers":"0.5.3","deps":[],"cksum":"d7fa7bf31bd520d00536d27b9e26a265a1cba6d84ec544175f254c755406110c","features":{"default":[],"qt_gui":[],"qt_qml":[]},"yanked":false}
 {"name":"cxx-qt-lib-headers","vers":"0.6.0","deps":[],"cksum":"aa88798ca1426b33bd772834ac718469e9a9f33d0363a17350034d15cc1609f4","features":{"default":[],"qt_gui":[],"qt_qml":[]},"yanked":false}
+{"name":"cxx-qt-lib-headers","vers":"0.6.1","deps":[],"cksum":"9abdeab6b77cfc5a53b724f3f62a37bcb5ac1423cccc2dba4c134f4273440b8c","features":{"default":[],"qt_gui":[],"qt_qml":[]},"yanked":false}
