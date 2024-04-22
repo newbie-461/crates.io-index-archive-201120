@@ -5,3 +5,4 @@
 {"name":"golem-wit","vers":"0.2.3","deps":[],"cksum":"6872b982e68657bec508f10eb636f50dc11d5d3732fab067e56b5f6bde38998d","features":{},"yanked":false}
 {"name":"golem-wit","vers":"0.2.4","deps":[],"cksum":"a6242405b54d1b839ecf2ae2d101349172b9a84531c998c83205f617b4c4743c","features":{},"yanked":false}
 {"name":"golem-wit","vers":"0.2.5","deps":[],"cksum":"a5fa0995d66b8264fd4f5074ab297760df06e8ae92f192f4d158e784af7d230e","features":{},"yanked":false}
+{"name":"golem-wit","vers":"0.2.6","deps":[],"cksum":"1e3c4726ba84c67f21b6636d6b93f4f75ee2aedba42883da66e4c7aa913079e9","features":{},"yanked":false}
