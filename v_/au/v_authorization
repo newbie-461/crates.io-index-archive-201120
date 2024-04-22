@@ -7,3 +7,4 @@
 {"name":"v_authorization","vers":"0.1.6","deps":[],"cksum":"a33cb6b459349d8eb278afd47e6d0483f493a6bfe27fea4cacc2d28113780bb6","features":{},"yanked":false}
 {"name":"v_authorization","vers":"0.1.7","deps":[],"cksum":"03f8504123aebd57c77f99ca2d9c441b42a81c9e5b8370bbbbec78db7e67aa43","features":{},"yanked":false}
 {"name":"v_authorization","vers":"0.2.0","deps":[],"cksum":"a9e367285a8a7cbc03e06b07176712bcc35fdaf50c4222b240215b7218b85e45","features":{},"yanked":false}
+{"name":"v_authorization","vers":"0.3.0","deps":[],"cksum":"47ce0dff0042949f8b7899ceb96907fcfa6dd247caa87abb232bcbfd02b29a97","features":{},"yanked":false}
