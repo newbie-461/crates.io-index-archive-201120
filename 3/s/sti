@@ -4,3 +4,4 @@
 {"name":"sti","vers":"0.1.4","deps":[],"cksum":"c1851b53d08ae4c6e9fed70ce087555da7078548b122cdd23e99b7b1a5e0a10c","features":{},"yanked":false}
 {"name":"sti","vers":"0.1.6","deps":[],"cksum":"b26bea5cfb658630485d662458d6af242f9c5ab0bc9fe4612dea9ec49e4fb409","features":{},"yanked":false}
 {"name":"sti","vers":"0.1.8","deps":[],"cksum":"103aac77774f5a7162ac18c1e87739fe49625da556ebc8944c58cb18a2ca2284","features":{},"yanked":false}
+{"name":"sti","vers":"0.5.0","deps":[],"cksum":"a6d7d9309038bc1b3b0b47aa0f38806c632879a6140707460b3b6e602c136132","features":{"default":["std"],"std":[]},"yanked":false}
