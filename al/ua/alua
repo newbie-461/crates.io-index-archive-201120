@@ -1,1 +1,2 @@
 {"name":"alua","vers":"0.1.0","deps":[{"name":"alua-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ecb7390d25687b702b2663a27c0804a50227c09c2a0d9b6e66a9097ff54563c","features":{},"yanked":false}
+{"name":"alua","vers":"0.1.1","deps":[{"name":"alua-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50eb113e53fb5df085b3198c4974f363bd73cba3850ee286fcb6e787bc27f399","features":{},"yanked":false}
