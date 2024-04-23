@@ -4,3 +4,4 @@
 {"name":"palindronum","vers":"0.0.4","deps":[],"cksum":"6a219f001c1f0af3d8f65cb788bc017c191eec7f81c8d53446ba4ad94f3da494","features":{},"yanked":false}
 {"name":"palindronum","vers":"1.0.0","deps":[],"cksum":"315d598c173d9247b71d7ef2cebe1b7a55508916afe70f9ae2bd6d8792798cbf","features":{},"yanked":false}
 {"name":"palindronum","vers":"1.0.1","deps":[],"cksum":"135a2cb63ad777d271d1d6c41ed9cca2d81a8276bf2187b1536a939521c4436b","features":{},"yanked":false}
+{"name":"palindronum","vers":"1.0.2","deps":[],"cksum":"96a1ee48a5cd7b48fd6ebba5703ba22093436ab45d300d82dc4123c05f7c07b5","features":{},"yanked":false}
