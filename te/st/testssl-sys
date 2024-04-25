@@ -1,3 +1,4 @@
 {"name":"testssl-sys","vers":"0.1.15","deps":[],"cksum":"55d58e51a9fe4432de69104a8a6d39743d4bc09dc8cf4b33c0bf612c0b95e54a","features":{},"yanked":false}
 {"name":"testssl-sys","vers":"0.1.16","deps":[],"cksum":"bd5ed90072253ffa2f6e4af5ed88c14f131943e805f1e1c7031a1adc23807583","features":{},"yanked":false}
 {"name":"testssl-sys","vers":"0.1.17","deps":[],"cksum":"ae6620712b9a69622053ba89e8338d2090ed49349b15ae1ece776a494321d3dc","features":{},"yanked":false}
+{"name":"testssl-sys","vers":"0.1.18","deps":[],"cksum":"284bf18dd3c8a3a3b932535d2f5d56094c24b66e671dd9b5579369ef5509277a","features":{},"yanked":false}
