@@ -1,1 +1,2 @@
 {"name":"libblur","vers":"0.9.0","deps":[{"name":"num-traits","req":"^0.2.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2a7f2ffff8b192ee28d9c18fbbefe42bc17cc857c2eb4a19f13c2c91b226637","features":{},"yanked":false}
+{"name":"libblur","vers":"0.9.1","deps":[{"name":"num-traits","req":"^0.2.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"527ef8cc4c3e23573f1123b0203e14eab8e1ddf13179c482a64faf1a46b5f286","features":{},"yanked":false}
