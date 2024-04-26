@@ -7,3 +7,4 @@
 {"name":"queued_rust","vers":"0.4.3","deps":[],"cksum":"66c46da677d3dedac68e30f9874e5ce09d2ae78a3151ac50a5f20010f204a11f","features":{},"yanked":false}
 {"name":"queued_rust","vers":"0.4.4","deps":[],"cksum":"83026a8988a7f411dcad3f03c3426555d8b5f170bfde0ff6489c389978f8bce6","features":{},"yanked":false}
 {"name":"queued_rust","vers":"0.4.5","deps":[],"cksum":"a6b233f9ee4ee00fb134f04681926571f0e2c2bef7ec777230c1c626ed4609cd","features":{},"yanked":false}
+{"name":"queued_rust","vers":"0.4.6","deps":[],"cksum":"a3071157692497034edaa00322b2bb12dd4b5e8ea37ea23e2e135ecaad17eb27","features":{},"yanked":false}
