@@ -3,3 +3,4 @@
 {"name":"queued_rust","vers":"0.3.5","deps":[],"cksum":"e4b569951dc51042b62c7223dd53e0833ce6e2c545bf727649a882c50c0398f1","features":{},"yanked":false}
 {"name":"queued_rust","vers":"0.4.0","deps":[],"cksum":"2a4041608e804a7ea549c1e4077ba93ea188c7538735a7249abaa46d6826c8c3","features":{},"yanked":false}
 {"name":"queued_rust","vers":"0.4.1","deps":[],"cksum":"e5f0901f18961e585794e2860e9cc51a0efce38e1d43fc43328ca5beb89c2a0e","features":{},"yanked":false}
+{"name":"queued_rust","vers":"0.4.2","deps":[],"cksum":"abb4f834eb4bd77bc2806580ef36300b28ab999c6beb7a485664c13140ceffaf","features":{},"yanked":false}
