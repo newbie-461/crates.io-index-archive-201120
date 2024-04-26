@@ -10,3 +10,4 @@
 {"name":"queued_rust","vers":"0.4.6","deps":[],"cksum":"a3071157692497034edaa00322b2bb12dd4b5e8ea37ea23e2e135ecaad17eb27","features":{},"yanked":false}
 {"name":"queued_rust","vers":"0.4.7","deps":[],"cksum":"3bd5b23ccb331f106d33e9f2a0fa049599bcc6298cbdcc73495ac7919a6b7463","features":{},"yanked":false}
 {"name":"queued_rust","vers":"0.4.8","deps":[],"cksum":"3e4bd6f3802e6a3fd10de726d9c53bf291befe47629b9a279d475467f9b37685","features":{},"yanked":false}
+{"name":"queued_rust","vers":"0.5.0","deps":[{"name":"snafu","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19d501ca2037e89b8adb95606b7375a6744e73d31ea8e8f44d6b2f9b2fb9948a","features":{},"yanked":false}
