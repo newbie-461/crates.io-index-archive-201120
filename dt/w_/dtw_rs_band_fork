@@ -1,1 +1,2 @@
 {"name":"dtw_rs_band_fork","vers":"0.9.5","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"65cc43475cb7c1b69288510fd738f605a10cd8da7997aa2ca27da266e80c9215","features":{},"yanked":false}
+{"name":"dtw_rs_band_fork","vers":"0.9.6","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f4aa17de60bcdec3895d59bd783b5f3513bc8c8360944e9b17cfce60fe312aa3","features":{},"yanked":false}
