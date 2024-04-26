@@ -4,3 +4,4 @@
 {"name":"const_ranged_int","vers":"0.1.3","deps":[],"cksum":"db5721fb75e2f41075e8c3c861daf3c1d78ef00b0cfe5b361cc8931b7165762e","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"const_ranged_int","vers":"0.1.4","deps":[],"cksum":"2c1cc5942a97abb51ffb4abbbc7f00e625faacdafe8a7ccfe175964174c2aa1b","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"const_ranged_int","vers":"0.1.5","deps":[],"cksum":"3b928ecbd66c9281ff92f87114acfa6906242bd6729a6748af0ea139c9bc2ba4","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"const_ranged_int","vers":"0.1.6","deps":[],"cksum":"9dda5cfd79e4986e9dbf57e4128945654e18a652d4e43834adf8d6575865b215","features":{},"yanked":false,"rust_version":"1.70"}
