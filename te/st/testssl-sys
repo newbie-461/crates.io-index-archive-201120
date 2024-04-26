@@ -10,3 +10,4 @@
 {"name":"testssl-sys","vers":"0.1.25","deps":[],"cksum":"a7918802d7630017c3319a6059dace6b61be3e672605536f94c2fcdd4e3fc3e3","features":{},"yanked":false}
 {"name":"testssl-sys","vers":"0.1.26","deps":[],"cksum":"80b5fbe05d0d49aee7dc37f2f7d29ce7de4d50625a1bbccbf75078ce400f5d8a","features":{},"yanked":false}
 {"name":"testssl-sys","vers":"0.1.27","deps":[],"cksum":"79d553b792c6f25f21abc616e124911dd16fbf5a55eeecd072169579e91dc360","features":{},"yanked":false}
+{"name":"testssl-sys","vers":"0.1.28","deps":[],"cksum":"2563d28e62a6b8ff67c1301d5c2b07432ddf2ab15b53c099a668a8e21eff4abd","features":{},"yanked":false}
