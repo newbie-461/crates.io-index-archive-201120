@@ -1,2 +1,3 @@
 {"name":"const_ranged_int","vers":"0.1.0","deps":[],"cksum":"b80d09199fa6075fc3a29c0734c3f6b811d41a34e33fefa2384666adec384dca","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"const_ranged_int","vers":"0.1.1","deps":[],"cksum":"648d90d88d4475709629acaa44fb9a257625a22b205ee02b4f3411583abbcba1","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"const_ranged_int","vers":"0.1.2","deps":[],"cksum":"0fab2019071aefc96c62224c273e28f0fc5cd74b220c4927b9a86764afbf1224","features":{},"yanked":false,"rust_version":"1.70"}
