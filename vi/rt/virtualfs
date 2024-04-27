@@ -1,0 +1,1 @@
+{"name":"virtualfs","vers":"0.0.0","deps":[],"cksum":"4b5d1ffed59a1bc545785011c5dd16f2feb39f5fa1992e673cafe0a6ae25db83","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.75.0"}
