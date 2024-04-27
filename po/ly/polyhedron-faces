@@ -1,1 +1,2 @@
 {"name":"polyhedron-faces","vers":"0.0.1","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cf519b9672f2b85b7c963fb38da98cbab7059d03da089a9128bafaeea010ddf","features":{},"yanked":false}
+{"name":"polyhedron-faces","vers":"0.1.1","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79501e7b831ab0f1c9f2785aba124c072c9aae7e654c4d2563c195dceb3188e3","features":{},"yanked":false}
