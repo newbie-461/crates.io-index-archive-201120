@@ -17,3 +17,4 @@
 {"name":"data-encoding","vers":"2.3.3","deps":[],"cksum":"23d8666cb01533c39dde32bcbab8e227b4ed6679b2c925eba05feabea39508fb","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.46"}
 {"name":"data-encoding","vers":"2.4.0","deps":[],"cksum":"c2e66c9d817f1720209181c316d28635c050fa304f9c79e47a520882661b7308","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.47"}
 {"name":"data-encoding","vers":"2.5.0","deps":[],"cksum":"7e962a19be5cfc3f3bf6dd8f61eb50107f356ad6270fbb3ed41476571db78be5","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.48"}
+{"name":"data-encoding","vers":"2.6.0","deps":[],"cksum":"e8566979429cf69b49a5c740c60791108e86440e8be149bbea4fe54d2c32d6e2","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.48"}
