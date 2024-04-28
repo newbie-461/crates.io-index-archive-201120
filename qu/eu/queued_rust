@@ -1,4 +1,4 @@
-{"name":"queued_rust","vers":"0.1.1","deps":[],"cksum":"d8a33b2529975a236a8058f1ee5eb32375e775c38bd6e8900732500ebc3d4fff","features":{},"yanked":false}
+{"name":"queued_rust","vers":"0.1.1","deps":[],"cksum":"d8a33b2529975a236a8058f1ee5eb32375e775c38bd6e8900732500ebc3d4fff","features":{},"yanked":true}
 {"name":"queued_rust","vers":"0.3.1","deps":[],"cksum":"16e97c4a98866ba7bfcf348d36bdc5084a599b8120febd1a44efd967f59a7856","features":{},"yanked":true}
 {"name":"queued_rust","vers":"0.3.5","deps":[],"cksum":"e4b569951dc51042b62c7223dd53e0833ce6e2c545bf727649a882c50c0398f1","features":{},"yanked":true}
 {"name":"queued_rust","vers":"0.4.0","deps":[],"cksum":"2a4041608e804a7ea549c1e4077ba93ea188c7538735a7249abaa46d6826c8c3","features":{},"yanked":true}
