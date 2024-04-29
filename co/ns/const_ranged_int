@@ -6,3 +6,4 @@
 {"name":"const_ranged_int","vers":"0.1.5","deps":[],"cksum":"3b928ecbd66c9281ff92f87114acfa6906242bd6729a6748af0ea139c9bc2ba4","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"const_ranged_int","vers":"0.1.6","deps":[],"cksum":"9dda5cfd79e4986e9dbf57e4128945654e18a652d4e43834adf8d6575865b215","features":{},"yanked":false,"rust_version":"1.70"}
 {"name":"const_ranged_int","vers":"0.1.7","deps":[],"cksum":"13138dacfffc0c8eca8745b8325faba22987137185e68b9f361a0033d02b1cd1","features":{},"yanked":false,"rust_version":"1.70"}
+{"name":"const_ranged_int","vers":"0.1.8","deps":[],"cksum":"08ff0d52de507403cf64626c7b95a02bf01217668e86c96acf435fac97d6a2e9","features":{},"yanked":false,"rust_version":"1.70"}
