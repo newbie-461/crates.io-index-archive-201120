@@ -1,1 +1,2 @@
 {"name":"module_manager","vers":"0.1.0","deps":[{"name":"derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e480d5a68b467c2aa6ba7b6c700354d1ed8862d5cdc72cab5e01b9e38d1791d8","features":{},"yanked":false}
+{"name":"module_manager","vers":"0.2.0","deps":[{"name":"module_manager_derive","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fa779453bd499e3266631d59a6eada9bc85ab23c9fd8956c8f0f2e493984ea0","features":{},"yanked":false}
