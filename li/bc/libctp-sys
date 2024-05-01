@@ -1,1 +1,2 @@
 {"name":"libctp-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"81cd420ec5c41b52e7d8e413249dd1d24a343c6abe75e23f8139dd412b8b8e06","features":{},"yanked":false}
+{"name":"libctp-sys","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"109755f46d604dabe1d953d5a86b2369a3293488cb06364ea0291072aaa39908","features":{},"yanked":false}
