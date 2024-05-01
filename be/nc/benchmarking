@@ -21,3 +21,4 @@
 {"name":"benchmarking","vers":"0.4.10","deps":[],"cksum":"ea52a394d9a85bf9819ca50382187ece2497501dbd6397fd33388400e512a90e","features":{},"yanked":false}
 {"name":"benchmarking","vers":"0.4.11","deps":[],"cksum":"3937429ef059161c005a608ae02451b64e5e98d26d2038f43674f506b571bad6","features":{},"yanked":false}
 {"name":"benchmarking","vers":"0.4.12","deps":[],"cksum":"32842502e72b27b30b2681692d16bf47a8a375c5a2795613f0dc699bed9a48bb","features":{},"yanked":false}
+{"name":"benchmarking","vers":"0.4.13","deps":[],"cksum":"6c335a9de639ba6a3e4107fe7763c9dcd4eb9422575f1191c2b8f2009f03fe4a","features":{},"yanked":false,"rust_version":"1.56"}
