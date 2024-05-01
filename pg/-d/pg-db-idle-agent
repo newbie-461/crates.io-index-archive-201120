@@ -1,2 +1,2 @@
-{"name":"pg-db-idle-agent","vers":"0.0.1","deps":[],"cksum":"021217e64c34a6bd98d76dd670a30495b98cbab4af79945c47d6428815c42102","features":{},"yanked":false}
+{"name":"pg-db-idle-agent","vers":"0.0.1","deps":[],"cksum":"021217e64c34a6bd98d76dd670a30495b98cbab4af79945c47d6428815c42102","features":{},"yanked":true}
 {"name":"pg-db-idle-agent","vers":"0.0.2","deps":[],"cksum":"50196169e33de1a56aa693dfef067f8a838e3dd9d60bd22ee6f6e6b37028264b","features":{},"yanked":true}
