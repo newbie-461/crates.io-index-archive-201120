@@ -9,3 +9,4 @@
 {"name":"ak_macros","vers":"0.1.8","deps":[],"cksum":"d65e197ed19f76d13d0b12f4bc5a3ab21ba7abf7dcadc792cf065353542d98a4","features":{},"yanked":false}
 {"name":"ak_macros","vers":"0.1.9","deps":[],"cksum":"673d3506d5129ee0b9b6f362c3c57c632570e2346840752e56ba409bb38b7e6c","features":{},"yanked":false}
 {"name":"ak_macros","vers":"0.2.0","deps":[],"cksum":"47114489fd4723eea81932b225863ffcd7a2801b4040ed9db6f0f1875f5b744b","features":{},"yanked":false}
+{"name":"ak_macros","vers":"0.2.1","deps":[],"cksum":"23af103a5813b3810b354f5512245bcb66869fa239f533680071e950b612d5e5","features":{},"yanked":false}
