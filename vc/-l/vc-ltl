@@ -25,3 +25,4 @@
 {"name":"vc-ltl","vers":"5.0.8-Beta2","deps":[],"cksum":"2228b77daeab01039cbb3817a2669eea1653c30c88c875961e9d70726fbffb29","features":{},"yanked":false}
 {"name":"vc-ltl","vers":"5.0.8","deps":[],"cksum":"87e98ae3481f41a314867586b0bfbd20eabf5b196a420b1750a69d1a37b80d25","features":{},"yanked":false}
 {"name":"vc-ltl","vers":"5.0.9","deps":[],"cksum":"ba39ee40cae2e458614130c23f6be28410c0e851627fac0bb00d4ec530c9b5cf","features":{},"yanked":false}
+{"name":"vc-ltl","vers":"5.0.10-Beta1","deps":[],"cksum":"9ed43f8499c9cce2f5cf6ea6c2be585b8887d2502480711e6acde73f7bbc70d0","features":{},"yanked":false}
