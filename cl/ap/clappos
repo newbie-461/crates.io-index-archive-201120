@@ -9,3 +9,4 @@
 {"name":"clappos","vers":"0.3.7","deps":[],"cksum":"6901bf4635d9f1b7ba4901a034233365c04f0623d51afdd8647fc79ea8133610","features":{},"yanked":false}
 {"name":"clappos","vers":"0.3.8","deps":[],"cksum":"a82efff5219fdd1b4e8eed89c3e18be86b4b952485edde7637e76e8853e0184e","features":{},"yanked":false}
 {"name":"clappos","vers":"0.3.9","deps":[],"cksum":"f0e2a4ad8797da099afbb36664d240f785c2b371500cbbafcd9be504e8427393","features":{},"yanked":false}
+{"name":"clappos","vers":"0.3.10","deps":[],"cksum":"f67ee6e1a06f87990a56ccb6141140c6a158f5fc1cc3923c75b55932dc27bc4e","features":{},"yanked":false}
