@@ -5,3 +5,4 @@
 {"name":"Sph2-rs","vers":"0.1.4","deps":[],"cksum":"1ad82563cff87727979ba5ed95aa4705d1d5f3a411633abd148e27f696136c2d","features":{},"yanked":false}
 {"name":"Sph2-rs","vers":"0.1.5","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b60cbc80e7a5e06ac23ce870fd14718b24556e4abea11761a4fae825f4ec3336","features":{},"yanked":false}
 {"name":"Sph2-rs","vers":"0.1.6","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e172542823471082a284e28ba4a7129d1591352512d563ee351b29d241d74edc","features":{},"yanked":false}
+{"name":"Sph2-rs","vers":"0.1.7","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d839f36c2e8d5864b7d15836eb8819cfb84a6c0b2497ed16f27f0d69915cae6","features":{},"yanked":false}
