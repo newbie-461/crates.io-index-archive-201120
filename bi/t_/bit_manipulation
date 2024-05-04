@@ -9,3 +9,4 @@
 {"name":"bit_manipulation","vers":"0.2.3","deps":[],"cksum":"4ff0ec0407ba4f4786620a8b43c155e72919c4823943b5e4c76f2e3f59d429ce","features":{},"yanked":false}
 {"name":"bit_manipulation","vers":"0.2.35","deps":[],"cksum":"2ae034c9ff1630afab1eed755b819fc075b57adf6179eca3479f151724b70e1f","features":{},"yanked":false}
 {"name":"bit_manipulation","vers":"0.2.4","deps":[],"cksum":"2a0b91cd0851596146e603ac9c5bc4761367c7c4dcc0a987c6ecdfd8ae792b5a","features":{},"yanked":false}
+{"name":"bit_manipulation","vers":"0.2.40","deps":[],"cksum":"b43e02e297b25fde6476fd48eefc5c6230d0effb630122e10f4949ab4c88db38","features":{},"yanked":false}
