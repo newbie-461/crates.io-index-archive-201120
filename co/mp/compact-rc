@@ -7,3 +7,4 @@
 {"name":"compact-rc","vers":"0.5.1","deps":[],"cksum":"c811eb24723717d6d95d88f15a4b46fa071665bde18b718eed571e7a9545a4aa","features":{},"yanked":true}
 {"name":"compact-rc","vers":"0.5.2","deps":[],"cksum":"68a9d5cf54b5abc4f9fdfede682aee7eaacd7c420bf7e8e945a3a6d3759275c0","features":{},"yanked":false}
 {"name":"compact-rc","vers":"0.5.4","deps":[{"name":"dropcount","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bf2bdc97c915ed231cf450d1dc4f7293b6135a46834f886f23cfdf8ac2ba4a23","features":{},"yanked":false}
+{"name":"compact-rc","vers":"0.5.5","deps":[{"name":"dropcount","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3af20e6006027c82d664616a6dd15cc99c8fdba96152b8138ce61993fdc993f4","features":{},"yanked":false}
