@@ -1,1 +1,2 @@
 {"name":"array-section","vers":"0.1.0","deps":[],"cksum":"4d9fc1065c886670f9ba34c40517d83237115d62f9b08409ac50478acce28c31","features":{"alloc":[],"std":["alloc"]},"yanked":false}
+{"name":"array-section","vers":"0.1.1","deps":[],"cksum":"774b4e06eda206b7892bc45bea1db0cb8d843f7eabdc7a18f6104895390a1802","features":{"alloc":[],"std":["alloc"]},"yanked":false}
