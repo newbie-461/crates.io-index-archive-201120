@@ -75,3 +75,4 @@
 {"name":"ckb-build-info","vers":"0.115.0","deps":[],"cksum":"416a630029571fc6724c218232690123145aa975f5fb25ae49f60e39ad73c719","features":{},"yanked":false}
 {"name":"ckb-build-info","vers":"0.116.0-rc1","deps":[],"cksum":"63350496639c480ed1603bbd6537f711e705343a7bd0f7bb476073adf81f3fa9","features":{},"yanked":false}
 {"name":"ckb-build-info","vers":"0.116.0-rc2","deps":[],"cksum":"6ad3e9371472b8c4eacccab2af0e04d000da0547c39109b6f96fe31744776859","features":{},"yanked":false}
+{"name":"ckb-build-info","vers":"0.116.0","deps":[],"cksum":"cc949d6bf9f7b781a04f4e1d672eeda02495657f3a95b2f61229360a553848e0","features":{},"yanked":false}
