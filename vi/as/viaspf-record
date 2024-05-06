@@ -4,3 +4,4 @@
 {"name":"viaspf-record","vers":"0.4.1","deps":[],"cksum":"9a26a42057c64dfa1278cb3b9753a72e895e7ad8b109787bcee56223ece8202d","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"viaspf-record","vers":"0.5.0-alpha.1","deps":[],"cksum":"d4e491cd772387346d2144fc41e35531e2dd53c20bd46d6e26ad92eb602905ff","features":{},"yanked":false,"rust_version":"1.65.0"}
 {"name":"viaspf-record","vers":"0.5.0","deps":[],"cksum":"6849e7cfc50465f5db73459acd3ba4be09b2e87d07f32a040fded2b7b49c4f39","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"viaspf-record","vers":"0.5.1","deps":[],"cksum":"ee590559c7ec46082d54f34f8a65138ded6e06eec9f0873325aa2f6c804f050c","features":{},"yanked":false,"rust_version":"1.65.0"}
