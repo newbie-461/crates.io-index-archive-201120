@@ -5,3 +5,4 @@
 {"name":"sauss-cramer","vers":"0.1.4","deps":[],"cksum":"f53fb981e58dbc20f2615128409759f8ce3fccb8734f01221d0a374198b9c6a7","features":{},"yanked":true}
 {"name":"sauss-cramer","vers":"0.1.5","deps":[],"cksum":"cff1a0640e2090459beccd397248e9d5e2d35abc13e29ca2c60e1aa09a385bde","features":{},"yanked":true}
 {"name":"sauss-cramer","vers":"1.0.0","deps":[],"cksum":"3df34616edbed755e9b4cebf24295a5185a2a157c4cea2bfa83727e4c24b96de","features":{},"yanked":false}
+{"name":"sauss-cramer","vers":"1.0.1","deps":[],"cksum":"b5cf644b779ac0b9dabcadf5bc00b1687211210c6d0b1d743ab2154ff21e174e","features":{},"yanked":false}
