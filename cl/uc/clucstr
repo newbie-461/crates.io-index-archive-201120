@@ -7,3 +7,4 @@
 {"name":"clucstr","vers":"0.1.7","deps":[],"cksum":"fb257a9daf7107989bb536e0a76abd7bdd6f511a732b3391582c9a6622bee4c0","features":{},"yanked":false}
 {"name":"clucstr","vers":"1.1.9","deps":[],"cksum":"56232cf682db5586656090bf5cc9388c084d255dd2da6faee5124925a53b3f43","features":{},"yanked":false}
 {"name":"clucstr","vers":"1.1.91","deps":[],"cksum":"d9ff15b701a5df748c074315659f6f0c96ebd99088d5afb4408c7c586fb17f21","features":{},"yanked":false}
+{"name":"clucstr","vers":"1.2.0","deps":[{"name":"memchr","req":"^2.7.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"proc-macro2","req":"^1.0.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^1.0.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b3d61f8c60d765bac61234175fcf9b62700aa092e734bf72e0eeeab1c067f34","features":{},"yanked":false}
