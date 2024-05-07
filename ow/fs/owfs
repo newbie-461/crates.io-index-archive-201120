@@ -6,3 +6,4 @@
 {"name":"owfs","vers":"0.0.6","deps":[],"cksum":"cfec7d8ff38a40631257c9446c01f7e0cc8be4dec4b08b2c41e52ef10d07e2a2","features":{},"yanked":false}
 {"name":"owfs","vers":"0.0.7","deps":[],"cksum":"cfb40971c23617628d9d3ca06dc7cb5280c4502ee56909c102bce0c88dfe6a5a","features":{},"yanked":false}
 {"name":"owfs","vers":"0.0.8","deps":[{"name":"libc","req":"^0.2.126","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84c6891d6cb2fc6979e4fac3db26ec1f41244e3e099512846458817288873b61","features":{},"yanked":false}
+{"name":"owfs","vers":"0.0.9","deps":[{"name":"libc","req":"^0.2.126","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79774b018234e1b4c640b5f551cebbc9bf872a5ea73297c8c19294e426e1b791","features":{},"yanked":false}
