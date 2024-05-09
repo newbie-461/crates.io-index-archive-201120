@@ -1,3 +1,4 @@
 {"name":"format-struct","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"943b3b431606839a5601954d8732a5369c4f97610a870ffe0a7597028bf670ec","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
 {"name":"format-struct","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37b4a1f3c40abe245fc679ed72d17f6ba812210767d642aa4af1daac2a7363f5","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
 {"name":"format-struct","vers":"0.2.0","deps":[],"cksum":"64acb222b8c219b069010aa7db7b583c98a376dfaff1f9b3ac40feaa6b5325d1","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
+{"name":"format-struct","vers":"0.2.1","deps":[],"cksum":"0f3680b1440d15a42daeb446939098f2809494a4a6c64e94f5c54453b9e43c96","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
