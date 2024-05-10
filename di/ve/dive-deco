@@ -6,3 +6,4 @@
 {"name":"dive-deco","vers":"0.5.0","deps":[],"cksum":"cf8d54eac487f76161183eb8b6b3390ed960fa813f199d4dd288d86b060bc5ad","features":{},"yanked":false}
 {"name":"dive-deco","vers":"0.5.1","deps":[],"cksum":"5a429cec9e925b2d8ddef98428348c26e7539e7d3042739a42fec664f93d4998","features":{},"yanked":false}
 {"name":"dive-deco","vers":"0.6.1","deps":[],"cksum":"0463004f1122689243cc3668334cb692c1970e39e6f7caf8bd0ea9e1d1124830","features":{},"yanked":false}
+{"name":"dive-deco","vers":"1.0.0","deps":[],"cksum":"627375ccc1cb5420481c229234d0b644f0c022c394c42fb14b35a7703e37b384","features":{},"yanked":false}
