@@ -5,3 +5,4 @@
 {"name":"untools","vers":"1.0.4","deps":[],"cksum":"7401fc80c43be9c5e004f13ef4633f903fb7d7ceb47f8486ccadcc691fa8de7a","features":{},"yanked":false}
 {"name":"untools","vers":"1.0.5","deps":[],"cksum":"01f12f7cd0996fc2490dc701c60846914ed7917610b02d827288586a1d23094c","features":{},"yanked":false}
 {"name":"untools","vers":"1.0.6","deps":[{"name":"console","req":"^0.15.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"856ffc0ad10b339ca605456cfe24f86166b9dc50d6314e9c50dc4bd6e9baaa1e","features":{},"yanked":false}
+{"name":"untools","vers":"1.0.7","deps":[{"name":"console","req":"^0.15.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a683f51e8bee6863e3ff2878e0876c4c45d767890bd612b6ba9c648deb8135b","features":{},"yanked":false}
