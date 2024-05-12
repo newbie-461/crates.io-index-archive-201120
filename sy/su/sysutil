@@ -15,3 +15,4 @@
 {"name":"sysutil","vers":"0.4.1","deps":[],"cksum":"88c12160f66bca7c2ba437feb159b270d198582ca29d2eb8696ef16b8aab7f64","features":{},"yanked":false}
 {"name":"sysutil","vers":"0.4.2","deps":[],"cksum":"023ba81c9824fd46cbb6df7d4662978860d52cfced2aa9c010b79027a732f0b6","features":{},"yanked":false}
 {"name":"sysutil","vers":"0.4.3","deps":[],"cksum":"0659835b3ed1bfed8c33d0444257087c2f1860856a9a3b2095927719b16376a5","features":{},"yanked":false}
+{"name":"sysutil","vers":"0.4.4","deps":[{"name":"rsjson","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96ea8fc970b947347ecfd1070b74eef7987a9949ae501dae48e4f6c7c38e9e0a","features":{},"yanked":false}
