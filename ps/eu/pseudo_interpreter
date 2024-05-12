@@ -6,3 +6,4 @@
 {"name":"pseudo_interpreter","vers":"1.1.5","deps":[],"cksum":"28e9a223be4ef233049affdd13bbeeaad54ffe99b749381705491e000be46c0e","features":{},"yanked":false}
 {"name":"pseudo_interpreter","vers":"1.1.6","deps":[],"cksum":"f16f9ec62666ee0a7a6fb98f3f09e6cdfc06070a5325f81fe7d7b0d0b62dd8f2","features":{},"yanked":false}
 {"name":"pseudo_interpreter","vers":"1.1.7","deps":[],"cksum":"7e748fbeafdf58a70abf7cf932636dbe635502694f208cc250fd48d648b15299","features":{},"yanked":false}
+{"name":"pseudo_interpreter","vers":"1.2.0","deps":[],"cksum":"e5da07d6f686308555bc31372bf2ea6f580246ed9deef0ea6a3280ca415ae3f6","features":{},"yanked":false}
