@@ -3,3 +3,4 @@
 {"name":"toner","vers":"0.2.9","deps":[],"cksum":"c0059a8558596051574adf3edf2a746f74403114f57a65c12d3d20e9122e4f2e","features":{},"yanked":false}
 {"name":"toner","vers":"0.2.10","deps":[],"cksum":"0a6b0cc2a0b1bd46ba5e92f17fc5245882d656974192f0bc3e3bc6e95f4dada7","features":{},"yanked":false}
 {"name":"toner","vers":"0.2.11","deps":[],"cksum":"519259396414403c7c254e8fcc7254e61ef6049422b1db30a4154e491945d1ed","features":{},"yanked":false}
+{"name":"toner","vers":"0.2.14","deps":[],"cksum":"90b5ef9fd60e7c8d1d22ed0b8720d26f2718ab77f3858f46049030e967a3ad15","features":{},"yanked":false}
