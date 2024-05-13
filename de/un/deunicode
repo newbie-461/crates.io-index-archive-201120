@@ -18,3 +18,4 @@
 {"name":"deunicode","vers":"1.4.2","deps":[],"cksum":"3ae2a35373c5c74340b79ae6780b498b2b183915ec5dacf263aac5a099bf485a","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.64"}
 {"name":"deunicode","vers":"1.4.3","deps":[],"cksum":"b6e854126756c496b8c81dec88f9a706b15b875c5849d4097a3854476b9fdf94","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.64"}
 {"name":"deunicode","vers":"1.4.4","deps":[],"cksum":"322ef0094744e63628e6f0eb2295517f79276a5b342a4c2ff3042566ca181d4e","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.64"}
+{"name":"deunicode","vers":"1.6.0","deps":[],"cksum":"339544cc9e2c4dc3fc7149fd630c5f22263a4fdf18a98afd0075784968b5cf00","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.64"}
