@@ -6,3 +6,4 @@
 {"name":"stemplate","vers":"0.1.5","deps":[],"cksum":"c612e24b8b2d3fba62f497503063e86d966c9992c80a72b6b4409a5d5d52355b","features":{},"yanked":false}
 {"name":"stemplate","vers":"0.1.6","deps":[],"cksum":"503033ba2b8f31d1e8ad3a7573b574fc34595a07902df33834b4f9bdc353ae6d","features":{},"yanked":false}
 {"name":"stemplate","vers":"0.1.7","deps":[],"cksum":"956670e6d7f179087db210d81b7161560390f495a85b7216fbf6a5f336b22443","features":{},"yanked":false}
+{"name":"stemplate","vers":"0.1.8","deps":[],"cksum":"460f19131284cf3c0fd43f692bcb0df54605c5691754bda8201aadb8c2caa7d6","features":{},"yanked":false}
