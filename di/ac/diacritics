@@ -4,3 +4,4 @@
 {"name":"diacritics","vers":"0.1.3","deps":[],"cksum":"720807774f004a558d2b6d88e17b27a9c7cedccd541f4851446976631da2a151","features":{},"yanked":false}
 {"name":"diacritics","vers":"0.2.0","deps":[],"cksum":"fec6444e5b31ce44f10cd5e51dee3923970ec090b39f7a806fbe57ef4c89c7e2","features":{},"yanked":false}
 {"name":"diacritics","vers":"0.2.1","deps":[],"cksum":"3e360204acfb77b5ee72349bd6b776572157ee0dfabc496ee25fdf4bfc35b8e3","features":{},"yanked":false}
+{"name":"diacritics","vers":"0.2.2","deps":[],"cksum":"e39a82691e437d97c90836fcee7e1946378123c3fdc1bfec5ae15b769996dda6","features":{},"yanked":false}
