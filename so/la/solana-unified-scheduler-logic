@@ -12,3 +12,4 @@
 {"name":"solana-unified-scheduler-logic","vers":"1.18.10","deps":[],"cksum":"7457f12356a7d40dce1d0d013306f76ebf9602103ee68d3f18c3bdc81cc064df","features":{},"yanked":false}
 {"name":"solana-unified-scheduler-logic","vers":"1.18.11","deps":[],"cksum":"5fd361d0e29b165135b2947e5f0738996c42c54073ddda3009802e4cfe2c8510","features":{},"yanked":false}
 {"name":"solana-unified-scheduler-logic","vers":"1.18.12","deps":[],"cksum":"195f114821ad3553270dfec08473c3ff9292a5cc6945470e209297e603abb794","features":{},"yanked":false}
+{"name":"solana-unified-scheduler-logic","vers":"1.18.13","deps":[],"cksum":"3cb70c0a60fc588c81e36042527c9924bd57cdba69e8a03cc9d0460043029759","features":{},"yanked":false}
