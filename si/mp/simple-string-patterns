@@ -23,7 +23,7 @@
 {"name":"simple-string-patterns","vers":"0.3.8","deps":[],"cksum":"90317ee3ff5641e50e3e9a588a6b32e581b609751bd90399780e951252d0b7e1","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.3.9","deps":[],"cksum":"bc1bddfaac099ed96c42cab9a87e88648717f05de382cffe1733bbce6df6be96","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.3.10","deps":[],"cksum":"5ca076aa69084fc70fe534bb141e608fe367c2cfe22fc46c99c681d63ea0ddf7","features":{},"yanked":true}
-{"name":"simple-string-patterns","vers":"0.3.11","deps":[],"cksum":"602fef90a54b4197b88aab9be2ba93c4f477c6b36456c42a53718501f2f16b0f","features":{},"yanked":false}
-{"name":"simple-string-patterns","vers":"0.3.12","deps":[],"cksum":"582b00d9863a1e0e30465a3222ad48b20748f384379ac012af63cc4732580d0c","features":{},"yanked":false}
+{"name":"simple-string-patterns","vers":"0.3.11","deps":[],"cksum":"602fef90a54b4197b88aab9be2ba93c4f477c6b36456c42a53718501f2f16b0f","features":{},"yanked":true}
+{"name":"simple-string-patterns","vers":"0.3.12","deps":[],"cksum":"582b00d9863a1e0e30465a3222ad48b20748f384379ac012af63cc4732580d0c","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.3.13","deps":[],"cksum":"6c4134a2d6b00c28ff8e52c16de3edcb80037332276f33dce903a58d3ddf3f30","features":{},"yanked":false}
 {"name":"simple-string-patterns","vers":"0.3.14","deps":[],"cksum":"21c2e51b6cc4625a709436a3b3822c04ecefef75c3f12ec9c0e400bd65caed92","features":{},"yanked":false}
