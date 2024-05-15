@@ -7,3 +7,4 @@
 {"name":"unc-stable-hasher","vers":"0.7.2","deps":[],"cksum":"452841f7c7fe97d4f64e3e41364adeccade8e6dfc4fbd4407e664a12e2c8b470","features":{},"yanked":false}
 {"name":"unc-stable-hasher","vers":"0.7.3","deps":[],"cksum":"2f0da869db6e9ff88908cedd00f63968653416e903a392d284d266761c881099","features":{},"yanked":false}
 {"name":"unc-stable-hasher","vers":"0.10.0","deps":[],"cksum":"90413d7ac40b069d8f45f9ea6e5f17492b54282657f32fa755bd3920fd1bc789","features":{},"yanked":false}
+{"name":"unc-stable-hasher","vers":"0.10.2","deps":[],"cksum":"88671e8c5015b7bf81be4a1d3ac54f95bd36cf9d83f2ed5e37c8ade1953e58c2","features":{},"yanked":false}
