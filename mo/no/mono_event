@@ -1,1 +1,2 @@
 {"name":"mono_event","vers":"0.1.0","deps":[{"name":"mono_event_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4c2dbc99ef418b43da267dddc180ff366be456083701ba63746f5943fefa69b","features":{},"yanked":false}
+{"name":"mono_event","vers":"0.2.0","deps":[{"name":"mono_event_derive","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9945e31b28080b5f3ce74406c0fe9782fef4998b1d11ba8a3e5d8595082588a5","features":{},"yanked":false}
