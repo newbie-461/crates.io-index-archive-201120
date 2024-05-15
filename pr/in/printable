@@ -1,3 +1,3 @@
 {"name":"printable","vers":"0.0.1","deps":[],"cksum":"66deaa9cd3cdd5d54ed5792b88e89a8bd03c69b8902f48bce85f15ba17d34fda","features":{},"yanked":true}
-{"name":"printable","vers":"0.1.0","deps":[],"cksum":"11c613a4de957fa81818ddc93dcae6ac4b2f451be1e488702ec6180459ad7c75","features":{"unstable-assert-no-drop":[]},"yanked":false}
+{"name":"printable","vers":"0.1.0","deps":[],"cksum":"11c613a4de957fa81818ddc93dcae6ac4b2f451be1e488702ec6180459ad7c75","features":{"unstable-assert-no-drop":[]},"yanked":true}
 {"name":"printable","vers":"1.0.0","deps":[],"cksum":"9d20bc49116b988eb6d90abe2e824d4fac3999550b2d00eedf54b81fad6fa6ed","features":{"unstable-assert-no-drop":[]},"yanked":false}
