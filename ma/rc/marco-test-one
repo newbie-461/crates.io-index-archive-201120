@@ -37,3 +37,4 @@
 {"name":"marco-test-one","vers":"0.3.8","deps":[],"cksum":"0d79a0277c6d039495ec8ec39485ff38adf17bc73b8c536efbfcdeecb3b043ce","features":{},"yanked":false}
 {"name":"marco-test-one","vers":"0.3.9","deps":[],"cksum":"df316745f7b1df91914b738c5944c0c4bf606f7b8c9a94c14f755ee371130fc0","features":{},"yanked":false}
 {"name":"marco-test-one","vers":"0.3.10","deps":[],"cksum":"78e85e8535b5874fd3aa400b0f39dc5433ddb870abfb58c2f43e59f875f9c840","features":{},"yanked":false}
+{"name":"marco-test-one","vers":"0.3.11","deps":[],"cksum":"8b3d2a82fdc8764321dd54071429d05fb083a68e899df039becf5dd7f674c342","features":{},"yanked":false}
