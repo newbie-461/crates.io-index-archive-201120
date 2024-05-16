@@ -4,3 +4,4 @@
 {"name":"lex","vers":"0.4.0","deps":[],"cksum":"60cd56c6d26c4c236f28a52c28c9ec1e5209e67d41f1937207651cedc61cf865","features":{},"yanked":false}
 {"name":"lex","vers":"0.5.0","deps":[],"cksum":"f24c8f36f96024bf83a72433bafb9080f6cf8252f2861ebf189e8ae1d6dc244d","features":{},"yanked":false}
 {"name":"lex","vers":"0.6.0","deps":[],"cksum":"4d4ce0b341b0dae2c8da07432a149136dc87d71dc1c3780d3863c81f922d65ae","features":{},"yanked":false}
+{"name":"lex","vers":"0.7.0","deps":[],"cksum":"2fd074d8271f29260abb5a99be6cfb6846663938616135aa17f9fab9e81a7f70","features":{},"yanked":false}
