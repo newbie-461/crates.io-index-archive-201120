@@ -3,3 +3,4 @@
 {"name":"ColorShell","vers":"1.0.4","deps":[],"cksum":"2668a6725dc22fe192707fc8ccf38d0c12726449e7c8bb1dfdfd5bbbffa6a4f6","features":{},"yanked":false}
 {"name":"ColorShell","vers":"1.0.5","deps":[],"cksum":"5e2b95c2e58041fbe6dd719bdbb3722ea8789e6c1f373f03be55890e08631ccf","features":{},"yanked":false}
 {"name":"ColorShell","vers":"1.0.6","deps":[],"cksum":"393858963b0e42d0ecc13f40ab7332b5ad692766aa76923cf087eed28f6fe738","features":{},"yanked":false}
+{"name":"ColorShell","vers":"1.0.7","deps":[],"cksum":"fd9929667507759c0c42de3fed7442343a0fccd9b780779eac9cd91e1c0e9351","features":{},"yanked":false}
