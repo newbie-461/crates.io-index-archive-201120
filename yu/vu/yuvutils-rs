@@ -5,3 +5,4 @@
 {"name":"yuvutils-rs","vers":"0.1.4","deps":[],"cksum":"bdf1984a3d0c368207411a538c66017f2e29287f0e81b2f273cc6795b7c11aa6","features":{},"yanked":false}
 {"name":"yuvutils-rs","vers":"0.1.5","deps":[],"cksum":"0ea1aba72457422aa495e3762a8f6c7ae174175818bd7ca13405ac2b10f4e59e","features":{},"yanked":false}
 {"name":"yuvutils-rs","vers":"0.1.6","deps":[],"cksum":"b1ebf9917ff5820a76b4075f41608b16b3630e14f6cef30d09617e3eb3b27e89","features":{},"yanked":false}
+{"name":"yuvutils-rs","vers":"0.1.7","deps":[],"cksum":"41939e885f3291a52d94fd1e79a42a4bb9f6e325f27e1a40d77e1e6a3182759b","features":{},"yanked":false}
